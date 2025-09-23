@@ -1,0 +1,8 @@
+# venv
+venv/
+
+# chroma db
+chroma_db/
+
+# env vars
+.env
