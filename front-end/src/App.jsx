@@ -1,7 +1,7 @@
 import React, { useMemo, useState } from "react";
 import { Combobox } from "@headlessui/react";
 
-/** Countries + conflict regions + US states (trim/extend as you like) */
+
 const REGIONS = [
     "Afghanistan","Albania","Algeria","Andorra","Angola","Antigua and Barbuda","Argentina","Armenia",
     "Australia","Austria","Azerbaijan","Bahamas","Bahrain","Bangladesh","Barbados","Belarus","Belgium",
