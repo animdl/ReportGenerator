@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import shutil
 
 # langchain imports
-from langchain_community.document_loaders import PyPDFDirectoryLoader
+from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 
@@ -14,35 +14,70 @@ def main():
     # load env vars
     load_dotenv()
     # process data
-    documents = load_pdf_docs()
+    documents = load_text_docs()
     # chunking
     chunks = chunk_docs(documents)
     # write to db
     write_to_db(chunks)
 
-def load_pdf_docs():
-    document_loader = PyPDFDirectoryLoader(os.getenv("SAMPLE_DATA_PATH"))
+def load_text_docs():
+    # Load entire directory from file path
+    document_loader = DirectoryLoader(
+        os.getenv("SAMPLE_DATA_PATH"),
+        glob="*.txt",
+        loader_cls=TextLoader,
+        loader_kwargs={'autodetect_encoding': True},
+        show_progress=True
+    )
     documents = document_loader.load()
     
-    # remove path and extension from filename
+    # process metadata
     for doc in documents:
-        filename = os.path.basename(doc.metadata["source"]).replace('.pdf', '')
+        # remove path and extension from filename
+        filename = os.path.basename(doc.metadata["source"]).replace('.txt', '')
         doc.metadata["document_name"] = filename
 
+        # extract country from filename
+        country = None
+        if '-' in filename:
+            parts = filename.split('-')
+            country = parts[-1].lower()
+
+        # extract source_type from filename
+        source_type = None
+        if 'acled' in filename.lower():
+            source_type = 'ACLED'
+        elif 'reliefweb' in filename.lower():
+            source_type = 'ReliefWeb'
+
+        doc.metadata["country"] = country
+        doc.metadata["source_type"] = source_type
+
+    print(f"Loaded {len(documents)} text files")
     return documents
 
 def chunk_docs(documents: list[Document]):
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=800, 
+        chunk_size=800,  # Larger chunks for event data
         chunk_overlap=100, 
         length_function=len, 
         is_separator_regex=False,
-        separators=["\n\n", "\n", ". ", " ", ""]
+        separators=[
+            "\n================================================================================\n",  # ReliefWeb separator
+            "\n--------------------------------------------------------------------------------\n",  # ACLED separator
+            "\n\n",
+            "\n",
+            ". ",
+            " ",
+            ""
+        ]
     )
     chunks = text_splitter.split_documents(documents)
 
-    # remove chunks that are smaller than 50 chars
-    filtered_chunks = [chunk for chunk in chunks if len(chunk.page_content.strip()) > 50]
+    # remove chunks that are too small
+    filtered_chunks = [chunk for chunk in chunks if len(chunk.page_content.strip()) > 100]
+    
+    print(f"Created {len(filtered_chunks)} chunks from {len(documents)} documents")
     return filtered_chunks
 
 def write_to_db(chunks: list[Document]):
@@ -75,39 +110,33 @@ def write_to_db(chunks: list[Document]):
         batch_chunks = chunks_with_ids[i:i+batch_size]
         batch_uuids = uuids[i:i+batch_size]
         vector_db.add_documents(batch_chunks, ids=batch_uuids)
+        print(f"Added batch {i//batch_size + 1}/{(len(chunks_with_ids)-1)//batch_size + 1}")
+
+    print(f"Successfully added {len(chunks_with_ids)} chunks to database")
 
 def create_chunk_ids(chunks):
-    # Page Source - Page Number - Chunk Index
-    last_page_id = 0
-    current_chunk_index = 0
+    """ id: source-country-index """
+    chunk_counts = {}
 
     for chunk in chunks:
-        # file path
-        source = chunk.metadata.get("source", "unknown") 
-        # page number of the doc
-        page = chunk.metadata.get("page", 0)
-
-        # set metadata to Page Source - Page Number
-        current_page_id = f"{source}-{page}"
-
-        # increment chunk index
-        # chunk index is reset to 0 when page id changes
-        if current_page_id == last_page_id:
-            current_chunk_index += 1
+        source = chunk.metadata.get("source", "unknown")
+        country = chunk.metadata.get("country", "unknown")
+        
+        # Create base id from source and country
+        base_id = f"{os.path.basename(source)}-{country}"
+        
+        # Increment counter for this base_id
+        if base_id not in chunk_counts:
+            chunk_counts[base_id] = 0
         else:
-            current_chunk_index = 0
+            chunk_counts[base_id] += 1
         
-        # set metadata to Page Source - Page Number - Chunk Index
-        chunk_id = f"{current_page_id}-{current_chunk_index}"
-        # update page id
-        last_page_id = current_page_id
+        # Create unique chunk id
+        chunk_id = f"{base_id}-{chunk_counts[base_id]}"
         
-        # add extra metadata
+        # add metadata
         chunk.metadata["id"] = chunk_id
-
-        # debug
-        # chunk preview
-        chunk.metadata["preview"] = chunk.page_content[:100] + "..." if len(chunk.page_content) > 100 else chunk.page_content
+        chunk.metadata["preview"] = chunk.page_content[:150] + "..." if len(chunk.page_content) > 150 else chunk.page_content
 
     return chunks
 

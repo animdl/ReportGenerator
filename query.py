@@ -13,15 +13,40 @@ from langchain.agents import create_tool_calling_agent, AgentExecutor
 
 # prompt template
 prompt = ChatPromptTemplate.from_messages([
-    ("system", """You are a helpful assistant that answers questions based on board game rulebooks. 
+    ("system", """You are an expert analyst creating situation awareness reports based on data from ACLED (conflict and protest events) and ReliefWeb (humanitarian information).
+
+Your task is to analyze the provided context and generate a comprehensive situation report following this structure:
+
+### [Country] Generated Situation Awareness Report [Date Range]
+
+## Important Ongoing Situation:
+Identify and describe the most significant ongoing situation based on the data. Focus on major events, conflicts, humanitarian crises, or political developments.
+
+## Key Recent Insights:
+List 5-7 key insights from the data. Number them and cite sources (e.g., "ACLED source 1", "ReliefWeb source 2"). Focus on:
+- Major political events (coups, elections, government changes)
+- Conflict events (armed clashes, attacks, violence)
+- Protests and civil unrest
+- Humanitarian crises and needs
+- Natural disasters and their impacts
+- Human rights issues
+
+## Trends:
+Identify 2-4 major trends visible in the data. These should be patterns or developments over time, such as:
+- Economic indicators and changes
+- Escalation or de-escalation of conflicts
+- Increasing humanitarian needs
+- Political tensions
+- Patterns in protest activity
 
 IMPORTANT INSTRUCTIONS:
-1. ONLY answer based on the retrieved context from the vector database
-2. If the context doesn't contain enough information to answer the question, say "I don't have enough information in the provided documents to answer this question."
-3. When you provide an answer, cite the specific source document (Monopoly or Ticket to Ride)
-4. Be precise and accurate - don't make assumptions or add information not in the context
-5. If multiple pieces of context are relevant, synthesize them clearly
-6. Always indicate your confidence level in your answer
+1. ONLY use information from the retrieved context
+2. Cite sources appropriately (ACLED source N, ReliefWeb source N)
+3. Be factual and objective - avoid speculation
+4. Focus on the most significant and impactful information
+5. If data is insufficient for a section, state that clearly
+6. Use specific dates, numbers, and details when available
+7. Maintain a professional, analytical tone
 
 Context from documents: {context}"""),
     ("user", "{input}"),
@@ -32,14 +57,16 @@ def main():
 
     # accept params
     parser = argparse.ArgumentParser()
-    parser.add_argument("query", type=str, help="the query text")
-    parser.add_argument("--k", type=int, default=7, help="number of chunks to retrieve")
-    parser.add_argument("--score-threshold", type=float, default=0.0, help="minimum similarity score")
+    parser.add_argument("country", type=str, help="the country to generate report for")
+    parser.add_argument("--k", type=int, default=20, help="number of chunks to retrieve")
+    parser.add_argument("--start-date", type=str, default="", help="start date for report (YYYY-MM-DD)")
+    parser.add_argument("--end-date", type=str, default="", help="end date for report (YYYY-MM-DD)")
     args = parser.parse_args()
 
-    query = args.query
+    country = args.country.lower()
     k = args.k
-    score_threshold = args.score_threshold
+    start_date = args.start_date
+    end_date = args.end_date
 
     # load env vars
     load_dotenv()
@@ -60,12 +87,12 @@ def main():
     llm = init_chat_model(
         os.getenv("CHAT_MODEL"),
         model_provider=os.getenv("MODEL_PROVIDER"), 
-        temperature=0.1
+        temperature=0.3
     )
 
     @tool
     def query_db(query: str) -> str:
-        """Search the vector database for relevant information about board game rules.
+        """Search the vector database for information about a specific country.
         
         Args:
             query: The question or topic to search for
@@ -74,103 +101,146 @@ def main():
             str: Formatted context from relevant document chunks
         """
 
-        if score_threshold > 0:
-            results = vector_db.similarity_search_with_score(query, k=k)
-            # filter by score threshold
-            results = [(doc, score) for doc, score in results if score <= score_threshold]
-            docs = [doc for doc, score in results]
-        else:
-            docs = vector_db.similarity_search(query, k=k)
+        results = vector_db.similarity_search_with_score(query, k=k*2)
+
+        # filter by country
+        filtered_results = [
+            (doc, score) for doc, score in results 
+            if doc.metadata.get("country", "").lower() == country
+        ][:k]
+
+        docs = [doc for doc, score in filtered_results]
 
         if not docs:
-            return "No relevant information found in the documents."
+            return f"No relevant information found for {country.title()}."
 
         # format results
         context_parts = []
+        acled_count = 0
+        reliefweb_count = 0
+
         for i, doc in enumerate(docs, 1):
+            source_type = doc.metadata.get("source_type", "Unknown")
             document_name = doc.metadata.get("document_name", "Unknown Document")
-            chunk_id = doc.metadata.get("id", f"chunk_{i}")
-            
+
+            if source_type == "ACLED":
+                acled_count += 1
+                source_label = f"ACLED source {acled_count}"
+            elif source_type == "ReliefWeb":
+                reliefweb_count += 1
+                source_label = f"ReliefWeb source {reliefweb_count}"
+            else:
+                source_label = f"Source {i}"
+
             context_parts.append(f"""
---- Document Chunk {i} ---
-Source: {document_name}
-Chunk ID: {chunk_id}
+--- {source_label} ---
+Type: {source_type}
+Document: {document_name}
 Content: {doc.page_content.strip()}
             """)
-        
+
         formatted_context = "\n".join(context_parts)
         return formatted_context
 
     @tool
-    def get_document_overview(document_name: str = "") -> str:
-        """Get an overview of available documents or search for content from a specific document.
+    def get_country_overview(country_name: str = "") -> str:
+        """Get an overview of available data for a specific country or all countries.
         
         Args:
-            document_name: Optional name of specific document (monopoly, ticket_to_ride, etc.)
+            country_name: Name of the country (optional)
             
         Returns:
-            str: Overview of documents or content from specific document
+            str: Overview of available data sources and document counts
         """
-
-        if document_name.lower() in ["monopoly", "ticket"]:
-            # search for content from specific document
+        if country_name:
+            country_name = country_name.lower()
+            # Get sample documents for this country
             all_docs = vector_db.similarity_search("", k=100)
-            filtered_docs = [
+            country_docs = [
                 doc for doc in all_docs
-                if document_name.lower() in doc.metadata.get("document_name", "").lower()
-            ][:10]
-
-            if filtered_docs:
-                result = f"Found {len(filtered_docs)} chunks from {document_name}:\n"
-                for doc in filtered_docs:
-                    preview = doc.page_content[:150] + "..." if len(doc.page_content) > 150 else doc.page_content
-                    result += f"- {preview}\n"
+                if doc.metadata.get("country", "").lower() == country_name
+            ]
+            
+            if country_docs:
+                acled = sum(1 for d in country_docs if d.metadata.get("source_type") == "ACLED")
+                reliefweb = sum(1 for d in country_docs if d.metadata.get("source_type") == "ReliefWeb")
+                
+                result = f"Data available for {country_name.title()}:\n"
+                result += f"- ACLED chunks: {acled}\n"
+                result += f"- ReliefWeb chunks: {reliefweb}\n"
+                result += f"- Total chunks: {len(country_docs)}\n"
                 return result
             else:
-                return f"No content found for the document: {document_name}"
+                return f"No data found for {country_name.title()}"
         else:
-            # get general overview
-            all_docs = vector_db.similarity_search("game rules", k=20)
-            doc_names = set()
+            # Get overview of all countries
+            all_docs = vector_db.similarity_search("", k=200)
+            countries = set()
             for doc in all_docs:
-                doc_names.add(doc.metadata.get("document_name", "Unknown"))
-
-            overview = f"Available documents: {', '.join(doc_names)}\nTotal chunks available: {len(all_docs)}"
+                country_meta = doc.metadata.get("country", "")
+                if country_meta:
+                    countries.add(country_meta)
+            
+            overview = f"Available countries: {', '.join(sorted(countries))}\n"
+            overview += f"Total documents in database: {len(all_docs)}"
             return overview
 
     # connect tools to agent
-    tools = [query_db, get_document_overview]
+    tools = [query_db, get_country_overview]
     agent = create_tool_calling_agent(llm, tools, prompt)
     agent_executor = AgentExecutor(
         agent=agent,
         tools=tools,
         verbose=True,
-        max_iterations=3,
+        max_iterations=5,
         early_stopping_method="generate"
     )
 
+    # create query
+    date_range = ""
+    if start_date and end_date:
+        date_range = f" from {start_date} to {end_date}"
+    elif start_date:
+        date_range = f" from {start_date}"
+    elif end_date:
+        date_range = f" up to {end_date}"
+
+    query = f"Generate a comprehensive situation awareness report for {country.title()}{date_range}. Include all major events, conflicts, protests, humanitarian situations, and trends visible in the data."
+
     try:
+        print(f"Generating Situation Report for: {country.title()}")
+        if date_range:
+            print(f"Date Range: {date_range}\n")
+
         result = agent_executor.invoke({
             "input": query,
             "context": ""
         })
 
-        ai_response = result["output"]
-        print(ai_response)
+        response = result["output"]
+        print(f"\nSimilarity search results for {country.title()}:\n")
+        print(response)
 
     except Exception as e:
         print(f"Error occurred: {e}")
         print("Falling back to direct similarity search")
-        
-        # Fallback: direct search without agent
-        docs = vector_db.similarity_search(query, k=7)
-        if docs:
-            print("Direct search results:")
-            for i, doc in enumerate(docs, 1):
-                print(f"\n{i}. Source: {doc.metadata.get('document_name', 'Unknown')}")
-                print(f"Content: {doc.page_content[:300]}...")
+
+        search_query = f"{country} conflict protests humanitarian situation events"
+        results = vector_db.similarity_search_with_score(search_query, k=k*2)
+
+        filtered_results = [
+            (doc, score) for doc, score in results 
+            if doc.metadata.get("country", "").lower() == country
+        ][:k]
+
+        if filtered_results:
+            print(f"\nFallback Search Results for {country.title()}:\n")
+            for i, (doc, score) in enumerate(filtered_results, 1):
+                print(f"\n{i}. Source: {doc.metadata.get('source_type', 'Unknown')}")
+                print(f"   Score: {score:.4f}")
+                print(f"   Content: {doc.page_content[:400]}...")
         else:
-            print("No relevant documents found.")
+            print(f"No relevant documents found for {country.title()}.")
 
 if __name__ == "__main__":
     main()

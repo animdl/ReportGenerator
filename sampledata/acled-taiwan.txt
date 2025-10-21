@@ -1,0 +1,2977 @@
+Event 1
+Date: 2024-07-19
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Yahoo News Taiwan
+Fatalities: 0
+Notes: On 19 July 2024, DPP legislators and members of the Taiwan Victim Human Rights Association and other civic groups held a press conference with placards in Taipei City (Taipei City). They demanded that the judiciary deliver fair judgments, respect victims' rights, avoid involving constitutional issues in the death penalty debate, and suggested that the issue of the death penalty's abolition should be decided by a public referendum rather than by the Constitutional Court alone.
+--------------------------------------------------------------------------------
+
+Event 2
+Date: 2024-07-19
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: Liberty Times
+Fatalities: 0
+Notes: On 19 July 2024, KMT legislators held a press conference with placards in Taipei City (Taipei City). They demanded that all police officers carrying firearms be automatically recognized as on duty and eligible for a higher compensation grade associated with being in fatal harm's way in the line of duty.
+--------------------------------------------------------------------------------
+
+Event 3
+Date: 2024-07-19
+Country: Taiwan
+Location: Gukeng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: Liberty Times
+Fatalities: 0
+Notes: On 19 July 2024, over 200 villagers gathered to protest with banners and placards in Gukeng (Yunlin). They demanded the cessation of plans to build a composting plant due to concerns about potential foul odors affecting their living environment.
+--------------------------------------------------------------------------------
+
+Event 4
+Date: 2024-07-18
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 18 July 2024, DPP legislators and members of the Garden of Hope Foundation held a press conference with placards in Taipei City (Taipei City). They demanded accountability and transparency from the Taipei City government in the wake of a kindergarten sexual assault case, adjustment of committee compositions to include gender experts, and urgent legal revisions to protect children's rights and ensure public interest.
+--------------------------------------------------------------------------------
+
+Event 5
+Date: 2024-07-17
+Country: Taiwan
+Location: Taoyuan City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: Liberty Times
+Fatalities: 0
+Notes: On 17 July 2024, KMT Taoyuan City council members held a press conference with placards in Taoyuan City (Taoyuan City). They demanded a fair investigation into the KMT Taoyuan City mayor's alleged corruption while rejecting 'unfounded' accusations against KMT council members, asserting their consistent oversight during his eight-year tenure as mayor.
+--------------------------------------------------------------------------------
+
+Event 6
+Date: 2024-07-17
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); TPP: Taiwan People's Party
+Source: UDN
+Fatalities: 0
+Notes: On 17 July 2024, TPP legislators and the TPP Legislative Yuan convener held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded support for their legislation surrounding increased transparency and regulation in financial practices, enhanced protections and incentives for healthcare professionals, and legislative reforms to ensure fair labor practices and international aid transparency.
+--------------------------------------------------------------------------------
+
+Event 7
+Date: 2024-07-17
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: China Times
+Fatalities: 0
+Notes: On 17 July 2024, members of the Tamsui Gongqi Nature Park Organization held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded the New Taipei City Government reconsider the location for the police and fire station building originally slated to be built by the Tamsui Gongqi nature park out of environmental and traffic-related concerns.
+--------------------------------------------------------------------------------
+
+Event 8
+Date: 2024-07-22
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan)
+Source: Taipei Times
+Fatalities: 0
+Notes: On 22 July 2024, members of the Formosa Budding Hope Association and FTPA: Federation of Taiwan Pharmacists' Associations held a press conference with placards in Taipei City (Taipei City). They called for broader support and participation for their humanitarian missions in Cambodia.
+--------------------------------------------------------------------------------
+
+Event 9
+Date: 2024-07-23
+Country: Taiwan
+Location: Sanxia
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 23 July 2024, a DPP legislator, a New Taipei City district chief, and local residents gathered to protest with placards near the Hengxi MRT station in Sanxia (New Taipei City). They demanded the cancellation of the planned construction of a garbage transfer station near the station out of a desire to preserve the environment and concerns about potential odors, pollution, and traffic disruptions.
+--------------------------------------------------------------------------------
+
+Event 10
+Date: 2024-07-23
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Teachers (Taiwan); THEU: Taiwan Higher Education Union
+Source: Liberty Times
+Fatalities: 0
+Notes: On 23 July 2024, members of the THEU: Taiwan Higher Education Union held a protest with placards and banners outside of the Ministry of Education in Taipei City - Zhongzheng district (Taipei City). They demanded that the Ministry of Education ensure the protection of faculty, staff, and students at Dahan Institute of Technology, provide adequate severance packages, and facilitate smooth transfers for students in light of the proposed closure due to declining enrollments.
+--------------------------------------------------------------------------------
+
+Event 11
+Date: 2024-07-22
+Country: Taiwan
+Location: Huatan
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 22 July 2024, DPP Changhua County councilors and local residents gathered to protest with banners and live sheep in Huatan (Changhua). They demanded that the local government reject the proposal to establish a soil and rock disposal site on Bagua Mountain, citing concerns over environmental protection.
+--------------------------------------------------------------------------------
+
+Event 12
+Date: 2024-07-22
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | BSAA: Blue Sky Action Alliance; NP: New Party
+Source: Liberty Times
+Fatalities: 0
+Notes: On 22 July 2024, NP deputy secretary-general, BSAA: Blue Sky Action Alliance members, and others held a protest with banners and placards at the Judicial Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the Constitutional Court reverse its decision to suspend the application of six legislative measures, including 'parliamentary investigation powers,' arguing that the ruling violates the separation of powers and undermines legislative authority.
+--------------------------------------------------------------------------------
+
+Event 13
+Date: 2024-07-21
+Country: Taiwan
+Location: Keelung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Former Government of Taiwan (2016-); Government of Taiwan (2016-); KMT: Kuomintang
+Source: Liberty Times
+Fatalities: 0
+Notes: On 21 July 2024, former KMT President of Taiwan, KMT Chiayi City Mayor, Yunlin County magistrate, and others gathered to protest with placards in Keelung City (Keelung City). They demanded the dismissal of the recall petition against the KMT Keelung Mayor Hsieh Kuo-liang, arguing that it lacked legitimacy and that Mayor Hsieh had demonstrated effective governance through various initiatives such as reducing city debt and improving public amenities. Another group of people, including DPP Keelung City councilors and members of Citizens Against George Hsieh, held a protest nearby calling for the recall of Mayor Hsieh and criticizing his misallocation of funds on projects like electric scooters and artificial turf.
+--------------------------------------------------------------------------------
+
+Event 14
+Date: 2024-07-22
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan); NFTU: The National Federation of Teachers Unions; Teachers (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 22 July 2024, members of the NFTU: National Federation of Teachers Unions and NCSA: National Civil Service Association held a press conference with a banner and placards in Taipei City (Taipei City). They demanded that the Executive Yuan fully allocate the budget to cover the pension fund shortfall for public servants and educators, as per actuarial calculations.
+--------------------------------------------------------------------------------
+
+Event 15
+Date: 2024-07-23
+Country: Taiwan
+Location: Taichung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: CNA
+Fatalities: 0
+Notes: On 23 July 2024, members of Citizen Congress Watch and other groups held a protest with banners and placards in Taichung City (Taichung City). They demanded stricter air quality standards and opposed the proposed pollution offset measures, arguing that the current standards were too lenient and ineffective in reducing pollution.
+--------------------------------------------------------------------------------
+
+Event 16
+Date: 2024-07-26
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 26 July 2024, several academics and a member of the EQPF: Environmental Quality Protection Foundation held a press conference with placards in Taipei City (Taipei City). They demanded that the government not rely exclusively on planting mangroves as a means of mitigating carbon emissions, stressing the negative environmental impact that such work can have on local ecosystems.
+--------------------------------------------------------------------------------
+
+Event 17
+Date: 2024-07-26
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Green Citizens' Action Alliance
+Source: UDN
+Fatalities: 0
+Notes: On 26 July 2024, anti-nuclear advocates, including members of Green Citizens' Action Alliance held a press conference with a banner in Taipei City (Taipei City). They demanded that nuclear power plants not have their operations extended past their slated dates of termination, and that the potential for nuclear disaster be discussed more seriously.
+--------------------------------------------------------------------------------
+
+Event 18
+Date: 2024-07-31
+Country: Taiwan
+Location: Kaohsiung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 31 July 2024, members of the CPAT: Consumer Protection Association Taiwan held a press conference with placards in Kaohsiung City (Kaohsiung City). They demanded stricter enforcement of regulations against the illegal addition of preservatives like benzoic acid in tofu, following the discovery of such additives in products from Kaohsiung and Pingtung markets.
+--------------------------------------------------------------------------------
+
+Event 19
+Date: 2024-07-29
+Country: Taiwan
+Location: Keelung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: Liberty Times
+Fatalities: 0
+Notes: On 29 July 2024, members of Citizens Against George Hsieh held a protest with placards in Keelung City (Keelung City). They demanded KMT Keelung Mayor address public concerns over his controversial policies and called for his recall.
+--------------------------------------------------------------------------------
+
+Event 20
+Date: 2024-08-02
+Country: Taiwan
+Location: Keelung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-); Health Workers (Indonesia); Labor Group (International); Protesters (Indonesia); Protesters (International)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 2 August 2024, members of the Serve the People Association (a union of migrant workers in Taiwan), an Indonesian nurse, and DPP legislators held a press conference with placards in Keelung City (Keelung City). They demanded that relevant authorities close the loophole allowing fugitives convicted of serious crimes to legally hire foreign caregivers in the wake of the Indonesian nurse's assault.
+--------------------------------------------------------------------------------
+
+Event 21
+Date: 2024-07-30
+Country: Taiwan
+Location: Xindian
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 30 July 2024, members of the Taoyuan Confederation of Trade Unions and Save Firefighters held a press conference with placards in front of the National Fire Agency in New Taipei City (Xindian). They demanded the protection of whistleblower confidentiality, and the reinstatement of the whistleblower who was allegedly unlawfully terminated after publicizing the Agency's violation of fire alarm safety codes.
+--------------------------------------------------------------------------------
+
+Event 22
+Date: 2024-07-30
+Country: Taiwan
+Location: Taichung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 30 July 2024, DPP Taichung City council members held a press conference with placards in Taichung City (Taichung City). They demanded that the Taichung City Education Bureau immediately investigate and regulate school-organized overseas study tours to ensure student safety and compliance with legal standards, as two tour leaders were found to lack proper certification.
+--------------------------------------------------------------------------------
+
+Event 23
+Date: 2024-07-29
+Country: Taiwan
+Location: Tainan City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: UDN
+Fatalities: 0
+Notes: On 29 July 2024, KMT Tainan City councilors held a press conference with placards in Tainan City (Tainan City). They demanded an increase in disaster relief funds following Typhoon Gaemi, as Tainan's current aid is less than neighboring regions.
+--------------------------------------------------------------------------------
+
+Event 24
+Date: 2024-07-29
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: UDN
+Fatalities: 0
+Notes: On 29 July 2024, a DPP legislator and the families of teachers held a press conference and displayed placards in Taipei City (Taipei City). They demanded that the National Defense University approve the retirement applications of five military instructors by noon on July 30th and complete the retirement process by August 16th.
+--------------------------------------------------------------------------------
+
+Event 25
+Date: 2024-07-30
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: UDN
+Fatalities: 0
+Notes: On 30 July 2024, KMT legislators held a press conference with placards in Taipei City (Taipei City). They demanded that the NCC and Keelung City Election Commission investigate and address alleged violations by Public Television Service's Taigi channel of election law, claiming biased reporting favoring the recall campaign against KMT Keelung Mayor.
+--------------------------------------------------------------------------------
+
+Event 26
+Date: 2024-07-31
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-); Students (Taiwan)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 31 July 2024, a DPP legislator and students from the Taiwan Carbon Net Zero Academy held a press conference with placards in Taipei City (Taipei City). They demanded an explanation and accountability from the TPP for promoting the academy, which had not obtained legal registration and charged high fees for low quality courses.
+--------------------------------------------------------------------------------
+
+Event 27
+Date: 2024-08-01
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Teachers (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 1 August 2024, members of the TCEU: Taiwan Early Childhood Education Union held a press conference with placards in Taipei City (Taipei City). They demanded equal rights, better benefits, and the elimination of discriminatory practices for preschool educators.
+--------------------------------------------------------------------------------
+
+Event 28
+Date: 2024-08-01
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (International); Labor Group (Taiwan); Protesters (International); TCTU: Taiwan Confederation of Trade Unions; TIWA: Taiwan International Workers' Association
+Source: UDN
+Fatalities: 0
+Notes: On 1 August 2024, members of the Chunghwa Post Workers' Union, TCTU: Taiwan Confederation of Trade Unions, Taiwan Association for Victims of Occupational Injuries and TIWA: Taiwan International Workers' Association held a press conference with placards in Taipei City (Taipei City). They demanded increased overtime pay rates, restoration of national holidays, enhanced retirement benefits, protection of workers' rights, safeguards for vulnerable workers, and stricter penalties for employers.
+--------------------------------------------------------------------------------
+
+Event 29
+Date: 2024-08-01
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang; Labor Group (Taiwan); Lawyers (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 1 August 2024, a KMT legislator, a lawyer, and a member of the Taiwan Foundation Engineering Association held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the government take immediate action to address illegal Chinese infiltration into Taiwan's curtain wall industry, enforce stricter regulations, and investigate potential legal and security issues surrounding these practices.
+--------------------------------------------------------------------------------
+
+Event 30
+Date: 2024-08-02
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 2 August 2024, DPP legislators held a press conference with placards in Taipei City (Taipei City). They demanded the Taipei City Government fully address the administrative failings in handling the case of the kindergarten teacher accused of sexually abusing 24 children, ensure justice for all victims who were denied recognition due to insufficient evidence, and work to protect the children from future harm and stigma.
+--------------------------------------------------------------------------------
+
+Event 31
+Date: 2024-08-02
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: Liberty Times
+Fatalities: 0
+Notes: On 2 August 2024, a KMT spokesperson, KMT Keelung City councilor, and KMT Taipei City councilor held a press conference with messages projected on a TV screen in Taipei City (Taipei City). They demanded the government halt the construction of an LNG terminal in Keelung due to significant safety concerns and respect the rights and well-being of Keelung residents.
+--------------------------------------------------------------------------------
+
+Event 32
+Date: 2024-08-02
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: UDN
+Fatalities: 0
+Notes: On 2 August 2024, KMT legislators gave a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded transparency and adherence to legal procedures in appointing the acting NCC Chair, criticizing the Executive Yuan for exploiting legal loopholes and undermining legislative authority.
+--------------------------------------------------------------------------------
+
+Event 33
+Date: 2024-07-29
+Country: Taiwan
+Location: Hsinchu City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 29 July 2024, nearly 40 people, including members of the Lotus Pond Guardian Alliance and Forest City Association, Taiwan held a protest with placards at National Tsinghua University in Hsinchu City (Hsinchu City). They demanded that the University relocate its planned Kaohsiung campus away from the Lotus Pond area to preserve the natural landscape and avoid environmental risks.
+--------------------------------------------------------------------------------
+
+Event 34
+Date: 2024-08-02
+Country: Taiwan
+Location: Kaohsiung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: Liberty Times
+Fatalities: 0
+Notes: On 2 August 2024, environmental groups including the Government Watch Alliance, Kaohsiung Healthy Air Action Alliance, South Taiwan Air Clear, and Tashe Environmental Protection Alliance protested with placards outside of a Ministry of the Environment meeting in Kaohsiung City (Kaohsiung City). They demanded stricter air quality standards and the elimination of pollution offset policies to improve air quality in heavily polluted areas like Kaohsiung and central-southern Taiwan.
+--------------------------------------------------------------------------------
+
+Event 35
+Date: 2024-08-01
+Country: Taiwan
+Location: Miaoli City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 1 August 2024, local residents gathered to protest with banners and placards outside of the Miaoli County government in Miaoli City (Miaoli). They demanded the rejection of the Dadaoping landfill project due to concerns about its impact on tourism, environmental pollution, and the safety of residents and visitors in Miaoli County.
+--------------------------------------------------------------------------------
+
+Event 36
+Date: 2024-08-08
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Lawyers (Taiwan); Wild at Heart Legal Defense Association
+Source: Taipei Times
+Fatalities: 0
+Notes: On 8 August 2024, members of several environmental groups, including the Taiwan Citizen Participation Association, TRENA: Taiwan Renewable Energy Alliance, and the Wild at Heart Legal Defense Association held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the government reverse legislation that would limit offshore wind farm development and work towards more renewable energy solutions.
+--------------------------------------------------------------------------------
+
+Event 37
+Date: 2024-08-03
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan)
+Source: Taipei Times
+Fatalities: 0
+Notes: On 3 August 2024, over 1,000 childcare workers gathered to protest with placards at Liberty Square in Taipei City - Zhongzheng district (Taipei City). They demanded the same rights and benefits as the preschool teachers that they work alongside ever since preschools were integrated to include childcare services.
+--------------------------------------------------------------------------------
+
+Event 38
+Date: 2024-08-05
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Taipei Times
+Fatalities: 0
+Notes: On 5 August 2024, members of the DPP Legislative Yuan caucus held a press conference with placards in Taipei City (Taipei City). They criticized former president Ma for implying that Taiwan was squandering money on national defense days earlier, and demanded transparency regarding the necessity of bolstering national security measures through military expenditure.
+--------------------------------------------------------------------------------
+
+Event 39
+Date: 2024-08-07
+Country: Taiwan
+Location: Fangyuan
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 7 August 2024, nearly 1,000 villagers, including the township chief of Fangyuan, gathered to protest with placards at Caohu Bao'an temple in Fangyuan (Changhua). They demanded that the government revoke permission for solar plant development on nearby farmland, and called for the protection of the environment, local agriculture, and the consent of local residents.
+--------------------------------------------------------------------------------
+
+Event 40
+Date: 2024-08-04
+Country: Taiwan
+Location: Hsinchu City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: Liberty Times
+Fatalities: 0
+Notes: On 4 August 2024, residents of Hsinchu City gathered to protest at the Hsinchu city government, the Hsinchu City God Temple, and the Zhang family temple all in the North District of Hsinchu City (Hsinchu City). They demanded that the city government be held accountable for unlawfully removing anti-corruption banners that they had put up the day before, and called for the recall of the Hsinchu City mayor, who they argued was engaging in corruption.
+--------------------------------------------------------------------------------
+
+Event 41
+Date: 2024-08-08
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: Liberty Times
+Fatalities: 0
+Notes: On 8 August 2024, members of NAPO: National Alliance of Parents Organization held a press conference with placards in Taipei City (Taipei City). They demanded that the government strengthen programs to educate fathers on how to cultivate patience with their children, especially in the context of coronavirus isolation.
+--------------------------------------------------------------------------------
+
+Event 42
+Date: 2024-08-07
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Fishers (Indonesia); Protesters (Indonesia); TAHR: Taiwan Association for Human Rights
+Source: Liberty Times
+Fatalities: 0
+Notes: On 7 August 2024, members of the TAHR: Taiwan Association for Human Rights and Indonesian fishermen based on a vessel off the coast of Pingtung held a press conference with placards in Taipei City (Taipei City). They demanded that their long-overdue wages be paid immediately after being forced to work for 15 months without pay.
+--------------------------------------------------------------------------------
+
+Event 43
+Date: 2024-08-06
+Country: Taiwan
+Location: Changhua City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 6 August 2024, DPP Changhua county councilors held a press conference with placards in Changhua City (Changhua). They demanded that the county government conduct a comprehensive inspection of rental housing safety and legality in light of a recent fatal fire in a residential building in a Changhua town.
+--------------------------------------------------------------------------------
+
+Event 44
+Date: 2024-08-07
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: China Times; UDN
+Fatalities: 0
+Notes: On 7 August 2024, thousands of people, including residents from Guanyin district in Taoyuan, as well as KMT legislators, gathered to protest with placards outside of the Presidential Palace in Taipei City - Zhongzheng district (Taipei City). They opposed the development of a planned SRF (Solid Recovered Fuel) plant around Guanyin out of concerns over pollution and public health.
+--------------------------------------------------------------------------------
+
+Event 45
+Date: 2024-08-06
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | CET: Citizen of the Earth; Indigenous Group (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 6 August 2024, indigenous youth and members of CET: Citizen of the Earth held a protest with placards and banners in Taipei City - Zhongzheng district (Taipei City). They demanded that the Ministry of the Interior reject the development of the Manteau Recreation Area based on the requirements of the Coastal Management Act to protect the local environment and tribal sovereignty.
+--------------------------------------------------------------------------------
+
+Event 46
+Date: 2024-08-08
+Country: Taiwan
+Location: Tainan City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-)
+Source: UDN
+Fatalities: 0
+Notes: On 8 August 2024, Tainan City councilors of various parties held a press conference with placards in Tainan City (Tainan City). They demanded that the Tainan city government revert to using natural grass, and not artificial turf, at the Asia-Pacific Baseball Stadium to prioritize player safety and proper facility design.
+--------------------------------------------------------------------------------
+
+Event 47
+Date: 2024-08-07
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 7 August 2024, members of the Peng Wan-Ru Foundation and Taiwan Community Long-Term Care Strategic Alliance held a press conference with placards in Taipei City (Taipei City). They demanded that the Ministry of Labor reconsider its plan for the migrant worker care service pilot, arguing it could harm domestic job opportunities in caregiving and household services.
+--------------------------------------------------------------------------------
+
+Event 48
+Date: 2024-08-08
+Country: Taiwan
+Location: Nantou City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: CNA
+Fatalities: 0
+Notes: On 8 August 2024, residents of Puli town, Nantou county, and members of the Taiwan Whitefish Habitat Association and Government Watch Alliance held a press conference with placards and banners at the Nantou county government in Nantou City (Nantou). They demanded that the Nantou County Government ensure a thorough investigation of the groundwater levels during both wet and dry seasons for at least two years before a resort development project undergoes environmental impact assessment.
+--------------------------------------------------------------------------------
+
+Event 49
+Date: 2024-08-08
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Teachers (Taiwan); THEU: Taiwan Higher Education Union
+Source: FTV
+Fatalities: 0
+Notes: On 8 August 2024, a former Olympic athlete and members of the THEU: Taiwan Higher Education Union held a press conference with placards in Taipei City - Zhongzheng district (Taipei City). They demanded that the Ministry of Education and the Ministry of Labor address the alleged malicious dismissal by Nanay Institute of Technology, seeking justice and protection for affected teachers.
+--------------------------------------------------------------------------------
+
+Event 50
+Date: 2024-08-09
+Country: Taiwan
+Location: Taipei City - Zhongshan
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 9 August 2024, members of the Taoyuan Confederation of Trade Unions and the EVA Air Union held a protest with placards outside of the Ministry of Labor in Taipei City - Zhongshan district (Taipei City). They demanded that the Ministry of Labor take action to address issues of management control and undemocratic practices within the EVA Air Union, including holding a proper union assembly and ensuring member rights are protected.
+--------------------------------------------------------------------------------
+
+Event 51
+Date: 2024-08-08
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: Taipei Times
+Fatalities: 0
+Notes: On 8 August 2024, people gathered to protest with signs outside of the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that legislators ban the use of gun traps for hunting in order to prevent animal cruelty.
+--------------------------------------------------------------------------------
+
+Event 52
+Date: 2024-08-09
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | AI: Amnesty International; Protesters (Vietnam)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 9 August 2024, members of Amnesty International Taiwan branch and others accompanied Vietnamese family members of the victims of the March 7 incident to hold a press conference with placards in Taipei City (Taipei City). They demanded that the Ministry of National Defense reopen the investigation into the March 7 Incident in which a boat of Vietnamese refugees was shot down near Kinmen in 1987, disclose previously withheld evidence, and provide a full administrative report within six months to uncover the truth and seek justice for the victims' families.
+--------------------------------------------------------------------------------
+
+Event 53
+Date: 2024-08-09
+Country: Taiwan
+Location: Keelung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: Liberty Times
+Fatalities: 0
+Notes: On 9 August 2024, Keelung City KMT councilmembers held a press conference with placards in Keelung City (Keelung City). They demanded an end to what they called baseless accusations against those supporting the recall of KMT Keelung Mayor, expressing confidence in the outcome of the recall vote.
+--------------------------------------------------------------------------------
+
+Event 54
+Date: 2024-08-08
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: CNA
+Fatalities: 0
+Notes: On 8 August 2024, members of the Taiwan Anti-Smoking Alliance held a press conference with placards in Taipei City (Taipei City). They demanded that the government prioritize public health over tax revenue by thoroughly reviewing heated tobacco products without succumbing to pressure from tobacco companies, while also intensifying efforts to crack down on illegal sales.
+--------------------------------------------------------------------------------
+
+Event 55
+Date: 2024-08-07
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan); Women (Taiwan)
+Source: CNA
+Fatalities: 0
+Notes: On 7 August 2024, members of the TUFA: Taoyuan Flight Attendants' Union held a press conference with placards in Taipei City (Taipei City). They demanded that airlines and the government revise uniform regulations to eliminate gender discrimination, including allowing female flight attendants to wear pants, and involve unions in the decision-making process.
+--------------------------------------------------------------------------------
+
+Event 56
+Date: 2024-08-13
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Air Clean Taiwan; Lawyers (Taiwan); Wild at Heart Legal Defense Association
+Source: Taipei Times
+Fatalities: 0
+Notes: On 13 August 2024, members of the Wild at Heart Legal Defense Association, Air Clean Taiwan, and Government Watch Alliance held a protest with placards outside of the Ministry of the Environment in Taipei City - Zhongzheng district (Taipei City). They demanded that the Ministry include local voices in environmental decisions, enact more measures to reduce waste, and criticized the Ministry's omission of subjects including mountain disaster prevention, terrestrial ecological conservation and marine conservation.
+--------------------------------------------------------------------------------
+
+Event 57
+Date: 2024-08-13
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Greenpeace
+Source: Taipei Times
+Fatalities: 0
+Notes: On 13 August 2024, members of Greenpeace Taiwan held a press conference with placards in Taipei City (Taipei City). They demanded that the government develop effective climate change mitigation policies that did not bankrupt the population.
+--------------------------------------------------------------------------------
+
+Event 58
+Date: 2024-08-15
+Country: Taiwan
+Location: New Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 15 August 2024, a group of people, including members of the Taiwan Tomb Protection Association gathered to protest with banners and placards outside of the New Taipei City government in New Taipei City - Banqiao district (New Taipei City). They demanded accountability from the government regarding delays in structural reinforcements for a cemetery, where 33 tombs had recently been buried.
+--------------------------------------------------------------------------------
+
+Event 59
+Date: 2024-08-15
+Country: Taiwan
+Location: Yanshuei
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 15 August 2024, more than 100 villagers gathered to protest with banners in front of the district office in Yanshuei (Tainan City). They demanded an explanation from the local government about the missing 1000 lunchboxes that were promised to their community during the aftermath of Typhoon Gaemi.
+--------------------------------------------------------------------------------
+
+Event 60
+Date: 2024-08-13
+Country: Taiwan
+Location: Xinying
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: UDN
+Fatalities: 0
+Notes: On 13 August 2024, over 300 residents, including KMT councilors, gathered to protest with placards in Xinying (Tainan City). They demanded that the government halt the construction of a police shooting range at the former missile command base in Tainan's Lioujia District, instead proposing the site be used for community development, such as an industrial and cultural center, and criticized the lack of transparency in the decision-making process.
+--------------------------------------------------------------------------------
+
+Event 61
+Date: 2024-08-12
+Country: Taiwan
+Location: Changhua City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 12 August 2024, over 200 villagers from Changhua's Xihu district gathered to protest with placards in front of the Changhua City government in Changhua City (Changhua). They demanded that the Changhua County government stop the construction of a livestock waste treatment center in Xihu Township, accusing officials of breaking their promise to halt the project if local residents opposed it.
+--------------------------------------------------------------------------------
+
+Event 62
+Date: 2024-08-12
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 12 August 2024, over 100 Sinosteel employees protested at the Ministry of Economic Affairs in Taipei City - Zhongzheng district (Taipei City). They demanded that the company stop replacing Taiwanese crew members with Chinese nationals and reinstate labor and health insurance for Taiwanese crew members.
+--------------------------------------------------------------------------------
+
+Event 63
+Date: 2024-08-14
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang; Teachers (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 14 August 2024, a KMT legislator and two academics held a press conference in Taipei City (Taipei City). They demanded that the government take responsibility for securing Olympic broadcast rights to ensure that all citizens can freely watch the events, rather than relying on a pay-per-view model dominated by specific companies.
+--------------------------------------------------------------------------------
+
+Event 64
+Date: 2024-08-14
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Women (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 14 August 2024, members of the Taipei Women's Rescue Foundation held a press conference with placards in Taipei City (Taipei City). They demanded that the Japanese government formally apologize for the treatment of comfort women, and urged the Taiwanese government to include the history of Taiwanese comfort women in national history and curriculum guidelines to educate future generations about the impact of war on women.
+--------------------------------------------------------------------------------
+
+Event 65
+Date: 2024-08-14
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 14 August 2024, the Environmental Justice Foundation and other environmental groups held a press conference with placards in Taipei City (Taipei City). They demanded that the government divest from fossil fuels and increase transparency regarding investments in high-carbon industries.
+--------------------------------------------------------------------------------
+
+Event 66
+Date: 2024-08-15
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); Labor Group (Taiwan); NPP: New Power Party; Teachers (Taiwan)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 15 August 2024, the NPP party chairman, along with academics and workers from cafes and bookstores in Taipei's Nanxi commercial district held a press conference with placards in Taipei City (Taipei City). They demanded that the Taipei City Government revise urban plans and specific regulations affecting the Nanxi commercial district to address challenges faced by local businesses and ensure fair treatment.
+--------------------------------------------------------------------------------
+
+Event 67
+Date: 2024-08-13
+Country: Taiwan
+Location: Sanxia
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: China Times
+Fatalities: 0
+Notes: On 13 August 2024, local residents gathered to hold a press conference with placards in Sanxia (New Taipei City). They demanded that the Environmental Protection Bureau hold public meetings to address community concerns about the planned construction of a waste storage facility.
+--------------------------------------------------------------------------------
+
+Event 68
+Date: 2024-08-16
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-); Women (Taiwan)
+Source: FTV
+Fatalities: 0
+Notes: On 16 August 2024, 2 DPP legislators and the CEO of The Garden of Hope Foundation held a press conference with placards in Taipei City (Taipei City). They demanded legal action against the Taipei City Government and compensation for families affected by a child sexual abuse case.
+--------------------------------------------------------------------------------
+
+Event 69
+Date: 2024-08-16
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: Yahoo News Taiwan
+Fatalities: 0
+Notes: On 16 August 2024, members of the Taiwan Anti-Smoking Alliance held a press conference with placards in Taipei City (Taipei City). They demanded that the Ministry of Health and Welfare stop delaying and altering the flavored tobacco ban policy, and immediately disclose the truth regarding the regulation.
+--------------------------------------------------------------------------------
+
+Event 70
+Date: 2024-08-20
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | NFTU: The National Federation of Teachers Unions; Teachers (Taiwan)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 20 August 2024, members of the NFTU: the National Federation of Teachers Unions held a protest with placards and hunger striking in front of the Executive Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the government adopt a 10-year plan for replenishing the public sector pension fund, rather than the proposed 20-year plan, to ensure the fund's sustainability.
+--------------------------------------------------------------------------------
+
+Event 71
+Date: 2024-08-17
+Country: Taiwan
+Location: Taipei City - Zhongshan
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: Liberty Times
+Fatalities: 0
+Notes: On 17 August 2024, KMT legislators and a KMT spokesperson held a press conference with large messages on a screen at the KMT headquarters in Taipei City - Zhongshan (Taipei City). They demanded that the Central Election Commission (CEC) refrain from allegedly intervening in the Keelung mayoral recall process, accusing it of bias and unfair practices that favor the ruling party.
+--------------------------------------------------------------------------------
+
+Event 72
+Date: 2024-08-19
+Country: Taiwan
+Location: Xinwu
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-)
+Source: UDN
+Fatalities: 0
+Notes: On 19 August 2024, local residents and township chiefs held a protest with banners in a grassroots forum in Xinwu (Taoyuan City). They demanded that the Ministry of Economic Affairs respond to concerns about the planned SRF power plant constructions in Taoyuan, emphasizing the need to protect residents' health and environmental safety.
+--------------------------------------------------------------------------------
+
+Event 73
+Date: 2024-08-20
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 20 August 2024, members of the Government Watch Alliance and other environmental grounds held a press conference with placards in Taipei City (Taipei City). They demanded the government expedite the implementation of the National Land Plan and provide adequate support to protect agricultural land and ensure food security.
+--------------------------------------------------------------------------------
+
+Event 74
+Date: 2024-08-21
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: UDN
+Fatalities: 0
+Notes: On 21 August 2024, KMT Keelung City councilors and others held a press conference with placards, messages on a TV, and arm gestures at the KMT headquarters in Taipei City - Zhongzheng district (Taipei City). They demanded that the public oppose the recall of the KMT Keelung mayor, arguing that the recall lacks legitimacy and is driven by political manipulation.
+--------------------------------------------------------------------------------
+
+Event 75
+Date: 2024-08-22
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | NFTU: The National Federation of Teachers Unions; Teachers (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 22 August 2024, members of the NFTU: the National Federation of Teachers Unions held a protest with placards accompanying a hunger strike in front of the Executive Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the government adopt a 10-year plan for replenishing the public sector pension fund, rather than the proposed 20-year plan, to ensure the fund's sustainability.
+--------------------------------------------------------------------------------
+
+Event 76
+Date: 2024-08-21
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | NFTU: The National Federation of Teachers Unions; Teachers (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 21 August 2024, members of the NFTU: the National Federation of Teachers Unions held a protest with placards accompanying a hunger strike in front of the Executive Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the government adopt a 10-year plan for replenishing the public sector pension fund, rather than the proposed 20-year plan, to ensure the fund's sustainability.
+--------------------------------------------------------------------------------
+
+Event 77
+Date: 2024-08-22
+Country: Taiwan
+Location: Taipei City - Xinyi
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: UDN
+Fatalities: 0
+Notes: On 22 August 2024, KMT Taipei Mayor led a crowd of 500 people in a protest with placards and banners in Taipei City - Xinyi district (Taipei City). They demanded a commitment to eradicating drunk driving and enhancing youth motorcycle safety through training programs and public awareness campaigns.
+--------------------------------------------------------------------------------
+
+Event 78
+Date: 2024-08-22
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); Health Workers (Taiwan); NPP: New Power Party
+Source: UDN
+Fatalities: 0
+Notes: On 22 August 2024, a representative of the Taiwan General Dental Practitioners Association, a representative of the Taiwan Local Dentists' Alliance, and a NPP legislator held a press conference with placards in Taipei City (Taipei City). They demanded the government halt the current phase of the rural healthcare optimization plan, which they argue unfairly benefits foreign-trained dental students at the expense of local students and the integrity of rural dental services.
+--------------------------------------------------------------------------------
+
+Event 79
+Date: 2024-08-22
+Country: Taiwan
+Location: Keelung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 22 August 2024, Keelung City DPP councilmembers held a press conference with placards in Keelung City (Keelung City). They demanded that the KMT mayor focus on addressing the stalled public construction projects and improve governance instead of shifting blame to the opposition in the face of a recently-conducted audit.
+--------------------------------------------------------------------------------
+
+Event 80
+Date: 2024-08-22
+Country: Taiwan
+Location: Yilan City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 22 August 2024, DPP legislators and DPP Yilan County councilors held a press conference with placards in Yilan City (Yilan). They demanded that the central government reduce the local government's financial burden for the Yilan to Luodong railway elevation project by lowering or adjusting the required local matching funds.
+--------------------------------------------------------------------------------
+
+Event 81
+Date: 2024-08-22
+Country: Taiwan
+Location: Taipei City - Xinyi
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 22 August 2024, members of the Taipei City Hospital Labor Union held a protest with banners and placards outside of the Taipei City government in Taipei City - Xinyi district (Taipei City). They demanded that the hospital fully approve injury leave for workers suffering from work-related injuries, rather than obstructing their requests.
+--------------------------------------------------------------------------------
+
+Event 82
+Date: 2024-08-23
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 23 August 2024, members of the FTPA: Federation of Taiwan Pharmacists' Associations held a press conference with placards in Taipei City (Taipei City). They demanded equal pay for pharmaceutical services provided by pharmacists in clinics and community pharmacies, expressing frustration over the perceived favoritism towards doctors by health authorities.
+--------------------------------------------------------------------------------
+
+Event 83
+Date: 2024-08-23
+Country: Taiwan
+Location: Kaohsiung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 23 August 2024, people went to protest with placards and banners on a car at the office of a DPP legislator in central Kaohsiung City (Kaohsiung City). They demanded the recall of the legislator, citing dissatisfaction with her performance and actions, and claimed to have gathered over a thousand signatures in support of the recall.
+--------------------------------------------------------------------------------
+
+Event 84
+Date: 2024-08-23
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | NFTU: The National Federation of Teachers Unions; Teachers (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 23 August 2024, members of the NFTU: The National Federation of Teachers Unions held a protest with placards outside of the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the government adopt a 10-year funding plan for the public sector pension fund instead of the more costly 20-year plan, criticizing the government's refusal to heed expert advice, and ended a 3-day hunger strike.
+--------------------------------------------------------------------------------
+
+Event 85
+Date: 2024-08-22
+Country: Taiwan
+Location: Xinfeng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Hakka Ethnic Group (Taiwan); Teachers (Taiwan)
+Source: China Times
+Fatalities: 0
+Notes: On 22 August 2024, local Hakka teachers gathered to protest with placards at a market in Xinfeng (Hsinchu). They demanded equal recognition and preservation of the Hakka language and other indigenous languages in Taiwan, opposing policies that prioritize Taiwanese Hokkien (Min Nan) over other native languages.
+--------------------------------------------------------------------------------
+
+Event 86
+Date: 2024-07-18
+Country: Taiwan
+Location: Taipei City - Xinyi
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-)
+Source: UDN
+Fatalities: 0
+Notes: On 18 July 2024, local mayors and members of various civic groups including the Taiwan Institute of Historical Resources Management gathered to protest with banners in front of the Department of Land Administration in Taipei City - Xinyi district (Taipei City). They demanded that the plans to convert the Jianguo Brewery site into university land be halted, advocating instead for the preservation and revitalization of the site as a cultural heritage location.
+--------------------------------------------------------------------------------
+
+Event 87
+Date: 2024-08-28
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (International) | Fishers (International)
+Source: UDN
+Fatalities: 0
+Notes: On 28 August 2024, members of the Foreign Fishers' Human Rights Alliance held a protest with placards at the Executive Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the government urgently address systemic issues in the migrant labor system by implementing specific policy reforms to end the labor brokerage system, combatting human trafficking and forced labor.
+--------------------------------------------------------------------------------
+
+Event 88
+Date: 2024-08-29
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Economic Democracy Union
+Source: Taipei Times
+Fatalities: 0
+Notes: On 29 August 2024, members of the Economic Democracy Union and Taiwan Citizen Front who participated in Operation Bluebird held a press conference with placards in Taipei City (Taipei City). They demanded the rejection of the four KMT and TPP-backed bills, arguing that they threaten democratic processes, undermine the president's constitutional authority over national security, and unfairly favor Chinese spouses in residency requirements.
+--------------------------------------------------------------------------------
+
+Event 89
+Date: 2024-08-27
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: UDN
+Fatalities: 0
+Notes: On 27 August 2024, DPP legislators and DPP Taoyuan City councilors held a press conference with placards in Taipei City (Taipei City). They demanded that Taoyuan Mayor respect public opinion and rename the MRT Green Line stations that were controversially named 'Zhongzheng,' criticizing the city government for disregarding the results of a public vote.
+--------------------------------------------------------------------------------
+
+Event 90
+Date: 2024-08-28
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: UDN
+Fatalities: 0
+Notes: On 28 August 2024, a DPP legislator and members of the Taiwan Eco Tech Association held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded the development and certification of 'green-collar' professionals to proactively integrate ecological expertise into major construction projects, preventing conflicts between social, economic, and environmental needs.
+--------------------------------------------------------------------------------
+
+Event 91
+Date: 2024-08-30
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: CNA
+Fatalities: 0
+Notes: On 30 August 2024, 3 DPP legislators held a press conference with a banner at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the government enhance heat injury prevention measures for outdoor workers, including researching industry-appropriate protective equipment and implementing subsidies for purchasing heat protection gear.
+--------------------------------------------------------------------------------
+
+Event 92
+Date: 2024-08-24
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Economic Democracy Union; Government of Taiwan (2016-)
+Source: Taipei Times
+Fatalities: 0
+Notes: On 24 August 2024, two DPP legislators and a member of the Economic Democracy Union held a press conference with placards in Taipei City (Taipei City). They demanded that the government and all critical infrastructure contractors provide proof of the origins and safety of components made in China.
+--------------------------------------------------------------------------------
+
+Event 93
+Date: 2024-08-27
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-); Teachers (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 27 August 2024, a DPP legislator, and members of the Humanistic Education Foundation and Taiwan Residential Childcare Alliance held a press conference with placards in Taipei City (Taipei City). They demanded that the central government urgently intervene and investigate the child abuse allegations at a Hualien children's shelter, criticizing the local government's slow response and lack of transparency.
+--------------------------------------------------------------------------------
+
+Event 94
+Date: 2024-08-28
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); TPP: Taiwan People's Party
+Source: UDN
+Fatalities: 0
+Notes: On 28 August 2024, a TPP legislator and members of the Government Watch Alliance held a press conference with placards in the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the government swiftly establish strict regulations for the production and use of SRF (Solid Recovered Fuel) to protect public health and the environment.
+--------------------------------------------------------------------------------
+
+Event 95
+Date: 2024-08-27
+Country: Taiwan
+Location: Taipei City - Zhongshan
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 27 August 2024, members of the Taiwan Railway Union held a protest with banners and placards outside of the Ministry of Labor in Taipei City - Zhongshan district (Taipei City). They demanded that the Ministry withdraw their appeal of a Taipei high administrative court decision to support the Union, and urged the Ministry to respect the workers' demands for fair working conditions.
+--------------------------------------------------------------------------------
+
+Event 96
+Date: 2024-08-27
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan)
+Source: Taipei Times
+Fatalities: 0
+Notes: On 27 August 2024, more than 100 bus drivers gathered to protest with placards and banners at the Ministry of Transport and Communications in Taipei City - Zhongzheng district (Taipei City). They demanded that mandatory GPS devices in busses not be connected to the Ministry's vehicle management system, that tour buses be deemed public transportation systems, and that the government offer drivers a subsidy covering card reader installations and maintenance fees.
+--------------------------------------------------------------------------------
+
+Event 97
+Date: 2024-08-28
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | LGBTQ+ (Taiwan)
+Source: CNA
+Fatalities: 0
+Notes: On 28 August 2024, members of the Taiwan Tongzhi Hotline Association held a press conference with placards in Taipei City (Taipei City). They demanded the development of comprehensive educational policies specifically addressing the needs of LGBTQ+ youth to better support their growth and acceptance in schools and families.
+--------------------------------------------------------------------------------
+
+Event 98
+Date: 2024-08-24
+Country: Taiwan
+Location: Taichung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Pingpu Indigenous Group (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 24 August 2024, Pingpu indigenous people held a protest with placards at a symposium in Taichung City (Taichung City). They demanded that the government amend the existing Indigenous Status Act to include Pingpu and other unrecognized indigenous groups instead of creating a separate law, to avoid diminishing the status of either.
+--------------------------------------------------------------------------------
+
+Event 99
+Date: 2024-08-30
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | AI: Amnesty International; Lawyers (Taiwan); TAHR: Taiwan Association for Human Rights
+Source: CNA
+Fatalities: 0
+Notes: On 30 August 2024, members of the TAHR: Taiwan Association for Human Rights, JRF: Judicial Reform Foundation, Amnesty International, and other groups held a press conference with placards in Taipei City (Taipei City). They demanded that the Chinese government ensure the human rights of forcibly disappeared Taiwanese individuals in China, and immediately release all arbitrarily detained Taiwanese citizens.
+--------------------------------------------------------------------------------
+
+Event 100
+Date: 2024-08-29
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | ERF: Environmental Rights Foundation; Lawyers (Taiwan); Wild at Heart Legal Defense Association
+Source: UDN
+Fatalities: 0
+Notes: On 29 August 2024, members of environmental groups including the Wild at Heart Legal Defense Association, Vote for our Sea, ERF: Environmental Rights Foundation, and others held a press conference with placards in Taipei City - Zhongzheng district (Taipei City). They demanded a comprehensive review of Taiwan's energy policies, emphasizing that the construction of new power plants, such as the fourth natural gas terminal, should not be used to mask deeper systemic issues in the power grid, particularly the need for better integration and resilience in northern Taiwan's electricity network.
+--------------------------------------------------------------------------------
+
+Event 101
+Date: 2024-08-26
+Country: Taiwan
+Location: Dapu
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 26 August 2024, over 30 local villagers gathered to protest with banners in Dapu (Chiayi). They demanded that plans for solar panel development be halted out of fears that they would impact the natural environment.
+--------------------------------------------------------------------------------
+
+Event 102
+Date: 2024-08-26
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 26 August 2024, people from Nantou and Yunlin gathered to protest with placards and face paint in front of the Ministry of Economic Affairs in Taipei City - Zhongzheng district (Taipei City). They demanded that the coal-fired power plant in Mailiao, Yunlin, be decommissioned immediately out of environmental concerns.
+--------------------------------------------------------------------------------
+
+Event 103
+Date: 2024-08-27
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: Liberty Times
+Fatalities: 0
+Notes: On 27 August 2024, members of the TOEC: Taiwan One Ecology Coalition protested with placards and props, including a stuffed bear, in front of the Forestry and Nature Conservation Agency in Taipei City - Zhongzheng district (Taipei City). They demanded a complete ban on the use of metal snares due to their harmful impact on Taiwan's black bear population, advocating instead for the use of electronic fences to prevent agricultural damage.
+--------------------------------------------------------------------------------
+
+Event 104
+Date: 2024-08-29
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: Liberty Times
+Fatalities: 0
+Notes: On 29 August 2024, thousands of people, led by members of the Clean Air Alliance, marched with placards and banners on Ketagalan Boulevard in Taipei City - Zhongzheng district (Taipei City). They demanded that the government regulate and allow the legal sale of heated tobacco products to generate tax revenue for the Cancer New Drug Fund and improve healthcare funding.
+--------------------------------------------------------------------------------
+
+Event 105
+Date: 2024-08-30
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: Liberty Times
+Fatalities: 0
+Notes: On 30 August 2024, members of the Alliance on Obligatory Education held a press conference with a banner in Taipei City (Taipei City). They demanded that the Ministry of Education and relevant government bodies urgently implement the promised intermediary educational measures and family support services for at-risk youth, which have been delayed for months.
+--------------------------------------------------------------------------------
+
+Event 106
+Date: 2024-09-05
+Country: Taiwan
+Location: Kaohsiung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-)
+Source: UDN
+Fatalities: 0
+Notes: On 5 September 2024, more than 20 residents and local city council members gathered to protest with banners at the Ambassador Hotel in Kaohsiung City - Cianjin district (Kaohsiung City). They demanded the halting of an environmental impact assessment for the Ambassador Hotel, citing concerns over its rapid reclassification from a safe building to having 'dangerous and old' status and questioning the resulting profit increase.
+--------------------------------------------------------------------------------
+
+Event 107
+Date: 2024-09-04
+Country: Taiwan
+Location: Keelung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: UDN
+Fatalities: 0
+Notes: On 4 September 2024, DPP Keelung City council members held a press conference with placards in Keelung City (Keelung City). They demanded that that the KMT Keelung mayor prove that the Keelung marathon postponement was not politically motivated by ensuring that no major pro-Hsieh rallies are held on the October 5-6 weekend and provide compensation details to the registered participants.
+--------------------------------------------------------------------------------
+
+Event 108
+Date: 2024-09-06
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: UDN
+Fatalities: 0
+Notes: On 6 September 2024, a KMT legislator, a KMT Taipei City council member, and one other held a press conference with placards in Taipei City (Taipei City). They demanded clearer and more practical guidelines from the Ministry of Health and Welfare to allow for the reporting of child and sexual violence cases without inadvertently protecting perpetrators.
+--------------------------------------------------------------------------------
+
+Event 109
+Date: 2024-09-06
+Country: Taiwan
+Location: Hsinchu City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); NPP: New Power Party
+Source: CNA
+Fatalities: 0
+Notes: On 6 September 2024, NPP Hsinchu City council members held a press conference with placards in Hsinchu City (Hsinchu City). They demanded that the Hsinchu City Government strictly investigate and regulate the proliferation of mahjong parlors disguised as board game shops in residential buildings, due to concerns over potential gambling and public safety risks.
+--------------------------------------------------------------------------------
+
+Event 110
+Date: 2024-09-03
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); TPP: Taiwan People's Party
+Source: UDN
+Fatalities: 0
+Notes: On 3 September 2024, TPP legislators held a press conference with placards in Taipei City (Taipei City). They demanded the passage of the Dignified End-of-Life Act to ensure that individuals have the right to a dignified and autonomous death under strict medical evaluation and consent procedures.
+--------------------------------------------------------------------------------
+
+Event 111
+Date: 2024-09-05
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); TPP: Taiwan People's Party
+Source: Yahoo News Taiwan
+Fatalities: 0
+Notes: On 5 September 2024, TPP legislators and party conveners held a press conference with fists in Taipei City (Taipei City). They demanded an end to judicial abuse, asserting that the recent detainment of the TPP chairman for corruption was unjust and calling for a protest on September 8th.
+--------------------------------------------------------------------------------
+
+Event 112
+Date: 2024-09-05
+Country: Taiwan
+Location: Tainan City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); TSP: Taiwan Statebuilding Party
+Source: Liberty Times
+Fatalities: 0
+Notes: On 5 September 2024, a TSP Tainan City council member and concerned citizens held a press conference with placards in Tainan City (Tainan City). They demanded that the Tainan City Government re-establish the Tree Committee and include citizen participation and expert opinions in the tree preservation and risk assessment process to prevent unnecessary tree removals.
+--------------------------------------------------------------------------------
+
+Event 113
+Date: 2024-09-04
+Country: Taiwan
+Location: Taipei City - Zhongshan
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 4 September 2024, members of the Taoyuan Confederation of Trade Unions held a protest with placards outside of the Ministry of Labor in Taipei City - Zhongshan district (Taipei City). They demanded a minimum wage increase of at least 5% and criticized the government's focus on raising salaries for state-owned enterprise executives while neglecting broader wage improvements.
+--------------------------------------------------------------------------------
+
+Event 114
+Date: 2024-09-04
+Country: Taiwan
+Location: Taipei City - Nangang
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | PDP: People's Democratic Party
+Source: UDN
+Fatalities: 0
+Notes: On 4 September 2024, members of the PDP and the Xinglong Club held a protest with placards outside of the Ministry of Health and Welfare in Taipei City - Nangang district (Taipei City). They demanded that the Ministry of Health and Welfare cancel the use of 'virtual income' calculations, remove restrictions requiring social assistance applications to be tied to household registration, and adopt more comprehensive measures to address poverty and support vulnerable populations.
+--------------------------------------------------------------------------------
+
+Event 115
+Date: 2024-09-01
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 1 September 2024, more than 500 people gathered to protest with placards and banners around the Taipei District Prosecutor's Office in Taipei City - Zhongzheng district (Taipei City). They demanded judicial fairness and justice in legal proceedings surrounding the corruption case of the TPP former Taipei mayor.
+--------------------------------------------------------------------------------
+
+Event 116
+Date: 2024-08-31
+Country: Taiwan
+Location: Xihu
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: China Times
+Fatalities: 0
+Notes: On 31 August 2024, hundreds of local residents protested with banners in front of the town office in Xihu (Changhua). They demanded the cancellation of the pig waste processing center project, and urgent the government to instead strive to attract TSMC development.
+--------------------------------------------------------------------------------
+
+Event 117
+Date: 2024-09-05
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: Taipei Times
+Fatalities: 0
+Notes: On 5 September 2024, environmental groups including the Government Watch Alliance and Leopard Cat Association of Taiwan (LCAT) held a protest with placards in front of the Ministry of the Environment in Taipei City - Zhongzheng district (Taipei City). They demanded stricter environmental impact assessments for photovoltaic development, especially in sensitive areas such as hillsides, wetlands, and intertidal zones, with lower thresholds for mandatory assessments and tighter regulations to prevent developers from evading oversight.
+--------------------------------------------------------------------------------
+
+Event 118
+Date: 2024-09-06
+Country: Taiwan
+Location: Yuanchang
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: CNA
+Fatalities: 0
+Notes: On 6 September 2024, hundreds of villagers from different towns in Yunlin gathered to protest at a briefing in Yuanchang (Yunlin). They demanded that the company building an organic composting plant in Yunlin sign an agreement to shut down the facility if any foul odors arise, expressing opposition to the plant due to concerns over potential smell issues affecting nearby villages.
+--------------------------------------------------------------------------------
+
+Event 119
+Date: 2024-09-08
+Country: Taiwan
+Location: Dacun
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 8 September 2024, nearly 100 villagers from two villages in Dacun township gathered to protest with banners at the site of a chicken farm in Jiaxi village, Dacun (Changhua). They demanded that the chicken farm immediately resolve the severe odor issue that has been disrupting their lives, with a commitment to protest until the problem is thoroughly addressed.
+--------------------------------------------------------------------------------
+
+Event 120
+Date: 2024-09-09
+Country: Taiwan
+Location: Hsinchu City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Students (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 9 September 2024, students from around Hsinchu City held a press conference with placards in Hsinchu City (Hsinchu City). They demanded an immediate reform and implementation of a new scoring system for next year's high school entrance exams in Hsinchu and Zhunan township in Miaoli, rejecting the current three-level system as unfair and outdated.
+--------------------------------------------------------------------------------
+
+Event 121
+Date: 2024-09-10
+Country: Taiwan
+Location: Kaohsiung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Health Workers (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 10 September 2024, more than 200 doctors and nurses protested with placards in the lobby of Kaohsiung Municipal Da-Tung Hospital in Kaohsiung City - Cianjin district (Kaohsiung City). They demanded that the Kaohsiung City Government protect their job security and provide a reasonable explanation for the perceived unfair evaluation process following the change in management of the hospital.
+--------------------------------------------------------------------------------
+
+Event 122
+Date: 2024-09-12
+Country: Taiwan
+Location: Kaohsiung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 12 September 2024, local street vendors gathered to protest with placards and banners at the site of the old Zhongdu theater in Kaohsiung City - Sanmin district (Kaohsiung City). They demanded that the government allow them to return to this site to resume their vending as promised, and to restore their right to work.
+--------------------------------------------------------------------------------
+
+Event 123
+Date: 2024-09-10
+Country: Taiwan
+Location: Keelung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 10 September 2024, DPP Keelung City council members held a protest with placards at the Keelung City district prosecutor's office in Keelung City - Xinyi district (Keelung City). They demanded that the KMT Keelung City mayor stop making defamatory statements linking the DPP to his recall campaign, as it was initiated by civic groups, not the DPP.
+--------------------------------------------------------------------------------
+
+Event 124
+Date: 2024-09-13
+Country: Taiwan
+Location: Keelung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Economic Democracy Union
+Source: UDN
+Fatalities: 0
+Notes: On 13 September 2024, members of the Economic Democracy Union and Taiwan Citizen Front held a press conference with placards in Keelung City (Keelung City). They demanded that a Keelung KMT legislator be held accountable for co-signing a proposal to amend an elector recall law, which they claim restricts citizens' right to initiate recalls for elected officials.
+--------------------------------------------------------------------------------
+
+Event 125
+Date: 2024-09-08
+Country: Taiwan
+Location: Shiding
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: Liberty Times
+Fatalities: 0
+Notes: On 8 September 2024, about 150 motorcyclists gathered to protest with slogans and fists at Shiding rest area in Shiding (New Taipei City). They demanded that the government fulfill its 2011 promise to allow heavy motorcycles to ride on highways, arguing for equal road rights and safer travel conditions. Similar protests occurred at 6 other rest areas along the National Highway (locations not mentioned specifically in article).
+--------------------------------------------------------------------------------
+
+Event 126
+Date: 2024-09-11
+Country: Taiwan
+Location: Taichung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Interfaith Group (Taiwan)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 11 September 2024, members of the Taiwan Religious Freedom Promotion Association and other religious groups gathered to protest with placards and banners at Taichung City hall in Taichung City - Xitun district (Taichung City). They demanded that the city government maintain religious neutrality by stopping the installation of a specific religious statue in the publicly funded Mazu Cultural Park while renaming it as a general cultural tourism park without religious symbols.
+--------------------------------------------------------------------------------
+
+Event 127
+Date: 2024-09-11
+Country: Taiwan
+Location: Tainan City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Former Government of Taiwan (2016-); Labor Group (Taiwan)
+Source: China Times
+Fatalities: 0
+Notes: On 11 September 2024, a former Tainan City council member led street vendors to protest at Tainan City Hall in Tainan City - Anping district (Tainan City). They demanded that the city government halt the demolition of a tourist area popular with street vendors and provide adequate support and relocation options for the vendors affected by the planned removal.
+--------------------------------------------------------------------------------
+
+Event 128
+Date: 2024-09-08
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | TPP: Taiwan People's Party
+Source: Taipei Times
+Fatalities: 0
+Notes: On 8 September 2024, supporters of the TPP: Taiwan People's Party held a protest with placards in Taipei City (Taipei City). They demanded that the TPP party chairman be released from his detention, claiming that his detaining was motivated by political reasons.
+--------------------------------------------------------------------------------
+
+Event 129
+Date: 2024-09-09
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Taipei Times
+Fatalities: 0
+Notes: On 9 September 2024, members of the Taiwan United Nations Alliance (TAIUNA) and a DPP Legislator held a press conference with placards in Taipei City (Taipei City). They called on the UN and the US Congress to review and hold formal hearings on the misinterpretation of UN Resolution 2758, which recognized the People's Republic of China as the sole legitimate representative of China, and support Taiwan's entry into the UN as an independent member state.
+--------------------------------------------------------------------------------
+
+Event 130
+Date: 2024-09-10
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Women (Taiwan)
+Source: Taipei Times
+Fatalities: 0
+Notes: On 10 September 2024, members of Mothers Shield Alliance, Profemina Taiwan, and other civil society groups held a press conference with placards in Taipei City (Taipei City). They demanded that the government fully consider the implications of surrogacy on child health, and called for adoption to be promoted as a natural way to start a family.
+--------------------------------------------------------------------------------
+
+Event 131
+Date: 2024-09-11
+Country: Taiwan
+Location: Taipei City - Zhongshan
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 11 September 2024, members of the Taoyuan Confederation of Trade Unions, EVA Air Union, and other labor organizations gathered to protest with placards and banners at the Ministry of Labor in Taipei City - Zhongshan district (Taipei City). They demanded the adoption of legislation for paid natural disaster leave, urging the Ministry of Labor to stop delaying and ensure that workers, especially shift workers, are fairly treated during natural disasters with double pay and transportation assistance.
+--------------------------------------------------------------------------------
+
+Event 132
+Date: 2024-09-06
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Protesters (Japan); Teachers (Taiwan); TSP: Taiwan Statebuilding Party; TSU: Taiwan Solidarity Union
+Source: Taipei Times
+Fatalities: 0
+Notes: On 6 September 2024, members of Japan's Happiness Realization Party, the Taiwan Association of University Professors, TSU: Taiwan Solidarity Union, TSP: Taiwan Statebuilding Party, and WUFI: World United Formosans for Independence held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that Japan establish a Taiwan Relations Act to legalize diplomatic and military cooperation with Taiwan, strengthen joint defense against China, and promote bilateral economic, cultural, and governmental collaboration.
+--------------------------------------------------------------------------------
+
+Event 133
+Date: 2024-09-07
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: China Times
+Fatalities: 0
+Notes: On 7 September 2024, members of the Unification Volunteer Army held a protest with flags and banners in front of the Taipei District Court in Taipei City - Zhongzheng district (Taipei City). They demanded that the authorities stop the political persecution of KMT former Taipei Mayor and instead investigate high-profile figures like DPP former president Tsai Ing-wen, former minister of health Chen Shih-chung, and DPP president Lai Ching-te for alleged corruption and mismanagement.
+--------------------------------------------------------------------------------
+
+Event 134
+Date: 2024-09-10
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Students (Taiwan)
+Source: Taipei Times
+Fatalities: 0
+Notes: On 10 September 2024, members of the Peng Min-min Foundation, The Educational Foundation of Chung-Ming Hseih, the Wei Ting-chao Human Right, Culture and Education Association, and students from NTU held a press conference with placards outside the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the Ministry of Justice reassess a case against democracy activist Peng Min-min, for the Executive Yuan to expedite their processes for political redress, and for transitional justice and education be strengthened surrounding the events of the White Terror.
+--------------------------------------------------------------------------------
+
+Event 135
+Date: 2024-09-10
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Teachers (Taiwan)
+Source: CNA
+Fatalities: 0
+Notes: On 10 September 2024, members of the NEU: National Federation of Education Unions held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the Tainan City government provide health checkup subsidies to all teachers, including those not holding administrative positions, to ensure equitable health benefits.
+--------------------------------------------------------------------------------
+
+Event 136
+Date: 2024-09-13
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Health Workers (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 13 September 2024, nurses from various hospitals, including members of the Taiwan Nurses Union, held a protest with placards outside of the Executive Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the current nurse-to-patient ratio policy be calculated separately for each ward, rather than averaged across the entire hospital, to prevent legalizing overwork and protect both nurses' rights and patient safety.
+--------------------------------------------------------------------------------
+
+Event 137
+Date: 2024-09-10
+Country: Taiwan
+Location: Taoyuan City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (International); Labor Group (Taiwan); Protesters (International)
+Source: UDN
+Fatalities: 0
+Notes: On 10 September 2024, Taiwanese and international employees from a dyeing and finishing plant in Taoyuan held a protest with placards outside Taoyuan City Hall in Taoyuan City (Taoyuan City). They demanded that the company compensate workers before closing the factory and criticized long-standing labor law violations.
+--------------------------------------------------------------------------------
+
+Event 138
+Date: 2024-09-08
+Country: Taiwan
+Location: Xiyu
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: Liberty Times
+Fatalities: 0
+Notes: On 8 September 2024, local villagers held a protest with placards in Xiyu (Penghu). They demanded the halt of wind turbine projects on Xiyu Island, citing concerns over environmental impact and lack of respect for local opinion.
+--------------------------------------------------------------------------------
+
+Event 139
+Date: 2024-09-18
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | CET: Citizen of the Earth
+Source: Liberty Times
+Fatalities: 0
+Notes: On 18 September 2024, members of CET: Citizen of the Earth held a press conference with placards in Taipei City (Taipei City). They demanded that the National Land Plan be implemented on schedule to prevent improper development and ensure sustainable land use in Taiwan, criticizing the TPP for their 'erroneous' press conference on the same day demanding the Plan's delay.
+--------------------------------------------------------------------------------
+
+Event 140
+Date: 2024-09-18
+Country: Taiwan
+Location: Xiyu
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-)
+Source: China Times
+Fatalities: 0
+Notes: On 18 September 2024, local villagers and the township chief held a protest with placards and banners in Xiyu (Penghu). They demanded the cancellation of plans to install 49 onshore wind turbines in Xiyu, Penghu, citing concerns over environmental impact, noise, and threats to residents' health and well-being.
+--------------------------------------------------------------------------------
+
+Event 141
+Date: 2024-09-18
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: UDN
+Fatalities: 0
+Notes: On 18 September 2024, DPP legislators held a press conference with placards, banners, and fists at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded a postponement and adjustment of the implementation timeline for the National Land Planning Act, calling for full communication and consensus before its enactment to address concerns over land use restrictions and fair development.
+--------------------------------------------------------------------------------
+
+Event 142
+Date: 2024-09-18
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: UDN
+Fatalities: 0
+Notes: On 18 September 2024, 3 DPP legislators held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that all Taiwanese legislators, including those from the KMT and TPP, unite to publicly oppose China's misinterpretation of UN Resolution 2758 and affirm that it does not pertain to Taiwan's sovereignty or international status.
+--------------------------------------------------------------------------------
+
+Event 143
+Date: 2024-09-20
+Country: Taiwan
+Location: Jinhu
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); Independent Politicians (Taiwan)
+Source: China Times
+Fatalities: 0
+Notes: On 20 September 2024, a group of young people and an independent Kinmen County Councilor held a protest with a banner outside of the Kinmen County Council in Jinhu (Kinmen). They demanded that the county government fulfill its election promise to help local youth start businesses in China, criticizing the sole focus on appointing a mainland distributor for Kinmen Kaoliang Liquor.
+--------------------------------------------------------------------------------
+
+Event 144
+Date: 2024-09-18
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); Labor Group (Taiwan)
+Source: China Times
+Fatalities: 0
+Notes: On 18 September 2024, a Labor Party Hsinchu County Councilor led a crowd of people including temp cleaning workers to protest with placards and flags at the National Taiwan University Hospital in Taipei City - Zhongzheng district (Taipei City). They demanded that NTU Biomedical Hospital take responsibility for paying the overdue wages of over 10 cleaning workers, rather than shifting all blame to a contractor who disappeared.
+--------------------------------------------------------------------------------
+
+Event 145
+Date: 2024-09-18
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); TPP: Taiwan People's Party
+Source: UDN
+Fatalities: 0
+Notes: On 18 September 2024, TPP legislators held a press conference with placards and fists in Taipei City (Taipei City). They demanded that the premier present a detailed report on the government's energy policies, electricity pricing, and Taipower's financial management before any further electricity rate hikes are implemented.
+--------------------------------------------------------------------------------
+
+Event 146
+Date: 2024-09-19
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); TPP: Taiwan People's Party
+Source: Liberty Times
+Fatalities: 0
+Notes: On 19 September 2024, TPP legislators and Taipei City councilors held a press conference with placards in Taipei City (Taipei City). They demanded an end to the political persecution of TPP chairman and former Taipei mayor Ko Wen-je regarding a corruption case, asserting that the city followed legal urban planning procedures.
+--------------------------------------------------------------------------------
+
+Event 147
+Date: 2024-09-20
+Country: Taiwan
+Location: Kaohsiung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); TPP: Taiwan People's Party
+Source: China Times
+Fatalities: 0
+Notes: On 20 September 2024, hundreds of people, including TPP legislators and TPP supporters gathered to protest with placards at Longcheng Wujia Temple in Kaohsiung City - Fongshan district (Kaohsiung City). They demanded justice for TPP chairman and former Taipei mayor Ko Wen-je, accusing DPP President Lai Ching-te of using unfair judicial tactics to politically target him.
+--------------------------------------------------------------------------------
+
+Event 148
+Date: 2024-09-17
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-); Greenpeace; KMT: Kuomintang
+Source: Taipei Times
+Fatalities: 0
+Notes: On 17 September 2024, 5 people, including a member of Greenpeace, the Douceur Network, one DPP and 2 KMT legislators held a press conference with placards in Taipei City (Taipei City). They demanded that the government make climate inflation a priority in developing climate strategies, and that focusing on environmental solutions would help slow down economic inflation.
+--------------------------------------------------------------------------------
+
+Event 149
+Date: 2024-09-16
+Country: Taiwan
+Location: Taipei City - Zhongshan
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (International); Labor Group (Taiwan); Protesters (International)
+Source: UDN
+Fatalities: 0
+Notes: On 16 September 2024, over 20 people, including members of the Taoyuan Confederation of Trade Unions and foreign laborers from the Datong Dyeing and Finishing company held a protest with placards and fists outside of the Ministry of Labor in Taipei City - Zhongshan district (Taipei City). They demanded that the Ministry of Labor acknowledge its oversight and commit to legal reforms after accusing the Datong Dyeing & Finishing Co., Ltd. of long-term labor law violations, including unpaid overtime, unauthorized unpaid leave, and wage deductions.
+--------------------------------------------------------------------------------
+
+Event 150
+Date: 2024-09-20
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Lawyers (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 20 September 2024, members of various civic groups including the Taiwan Alliance to End the Death Penalty, Taiwan Innocence Project, and the JRF: Judicial Reform Foundation held a press conference in Taipei City (Taipei City). They demanded the abolition of the death penalty, emphasizing that the current system is flawed and calling on the government to stop executions and pursue alternative justice measures.
+--------------------------------------------------------------------------------
+
+Event 151
+Date: 2024-09-19
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Lawyers (Taiwan); Teachers (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 19 September 2024, members of various civic groups including Taiwan Society, Taiwan Society North, Taiwan Society East, Taiwan Forever Association, Taiwan Society South, and the UTT: Union of Taiwan's Teachers held a press conference with a message projected on a screen and fists at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the Taiwan People's Party (TPP) stop mobilizing populism to interfere with judicial independence, particularly in response to the investigation of TPP chairman and former Taipei mayor Ko Wen-je.
+--------------------------------------------------------------------------------
+
+Event 152
+Date: 2024-09-14
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 14 September 2024, members of The Professor Huang Kun-Huei Education Foundation held a press conference with a banner in Taipei City (Taipei City). They demanded that emotional education be made a mandatory subject in schools to better equip students with emotional management skills, especially in the context of interpersonal challenges.
+--------------------------------------------------------------------------------
+
+Event 153
+Date: 2024-09-19
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: Liberty Times
+Fatalities: 0
+Notes: On 19 September 2024, about 150 people, led by members of Clean Air Alliance, protested with placards outside of the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the government legalize the sale of heated tobacco products, address the issue of smuggling, and use tobacco tax revenues to fund long-term care services.
+--------------------------------------------------------------------------------
+
+Event 154
+Date: 2024-09-24
+Country: Taiwan
+Location: Minxiong
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Farmers (Taiwan); Government of Taiwan (2016-)
+Source: UDN
+Fatalities: 0
+Notes: On 24 September 2024, around 200 local villagers, farmers, and two village chiefs gathered to protest with banners in Minxiong (Chiayi). They demanded that a local composting plant immediately halt operations as the stench that it emitted significantly affected villagers' lives and the natural environment.
+--------------------------------------------------------------------------------
+
+Event 155
+Date: 2024-09-23
+Country: Taiwan
+Location: Taoyuan City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: UDN
+Fatalities: 0
+Notes: On 23 September 2024, DPP Taoyuan City councilors held a press conference with placards in Taoyuan City (Taoyuan City). They demanded that the city government address safety concerns by stopping the construction of a gas station less than 20 meters from a kindergarten, proposing law revisions to ensure proper distance regulations for the safety of young children.
+--------------------------------------------------------------------------------
+
+Event 156
+Date: 2024-09-23
+Country: Taiwan
+Location: Zhongli
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (International); Labor Group (Taiwan); Protesters (International)
+Source: UDN
+Fatalities: 0
+Notes: On 23 September 2024, over 20 Taiwanese and international workers from Datong dyeing and finishing company protested with placards in Zhongli (Taoyuan City). They demanded increased compensation for layoffs, coverage of migrant workers' living and administrative costs during job transitions, and government scrutiny of the company's financial claims.
+--------------------------------------------------------------------------------
+
+Event 157
+Date: 2024-09-24
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | CET: Citizen of the Earth
+Source: UDN
+Fatalities: 0
+Notes: On 24 September 2024, 4 people, including three members of CET: Citizen of the Earth and a professor from National Dong Hwa University held a press conference with placards at the CET headquarters in Taipei City - Zhongzheng (Taipei City). They demanded that the government prioritize transparent social dialogue, fair governance, and local stakeholder engagement in renewable energy policies, particularly in the development of solar energy, to build public trust and consensus.
+--------------------------------------------------------------------------------
+
+Event 158
+Date: 2024-09-24
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: UDN
+Fatalities: 0
+Notes: On 24 September 2024, KMT legislators held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded equal treatment for opposition parties in the budget process, criticizing the DPP for attacking them over rejecting the central budget, while pointing out past instances when the DPP did the same.
+--------------------------------------------------------------------------------
+
+Event 159
+Date: 2024-09-23
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 23 September 2024, members of various civic groups including the Government Watch Alliance, Taiwan Rivers Network, and Taiwan Water Conservation Alliance held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the Nantou County government reject a hotel development project due to violations of environmental impact assessment regulations and potential harm to protected habitats.
+--------------------------------------------------------------------------------
+
+Event 160
+Date: 2024-09-27
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: CNA
+Fatalities: 0
+Notes: On 27 September 2024, KMT legislators held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded immediate safety reforms to end workplace violence in public transportation, including legal amendments, protective guidelines, body cameras, increased security, and harsher penalties for offenders.
+--------------------------------------------------------------------------------
+
+Event 161
+Date: 2024-09-27
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan)
+Source: CNA
+Fatalities: 0
+Notes: On 27 September 2024, an alliance of various labor groups held a protest with placards and banners outside of the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded the restoration of seven national holidays, including Teacher's Day, urging KMT and TPP legislators to fulfill their campaign promises and address Taiwan's long working hours.
+--------------------------------------------------------------------------------
+
+Event 162
+Date: 2024-09-26
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: CNA
+Fatalities: 0
+Notes: On 26 September 2024, KMT legislators held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded the removal of excessive legal restrictions on issuing the death penalty, criticizing a Constitutional Court decision that added such restrictions, and advocated for potential legal reforms, public demonstrations, or even a referendum to address the issue.
+--------------------------------------------------------------------------------
+
+Event 163
+Date: 2024-09-26
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-); NFTU: The National Federation of Teachers Unions; Teachers (Taiwan)
+Source: CNA
+Fatalities: 0
+Notes: On 26 September 2024, DPP legislators and members of the NEU: National Education Union and NFTU: National Federation of Teachers Unions held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded changes to pension reforms, education policies, and salary adjustments, blaming these issues for the nationwide teacher shortage and urging the government to address them to prevent further declines.
+--------------------------------------------------------------------------------
+
+Event 164
+Date: 2024-09-27
+Country: Taiwan
+Location: Sinshih
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 27 September 2024, local manufacturers and villagers gathered to protest with banners and placards outside of the Southern Taiwan Science Park in Sinshih (Tainan City). They demanded that the Jiuwei Power Company abandon its plans to build a natural gas power plant in the Shugu Industrial Park due to safety and environmental concerns, urging the company to find a more suitable location.
+--------------------------------------------------------------------------------
+
+Event 165
+Date: 2024-09-27
+Country: Taiwan
+Location: Taoyuan City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: UDN
+Fatalities: 0
+Notes: On 27 September 2024, KMT Taoyuan City council members held a press conference with placards at the Taoyuan City council in Taoyuan City (Taoyuan City). They demanded that the government provide assistance and implement better policies to help young homebuyers who are struggling due to strict loan restrictions, ensuring housing justice and preventing financial hardship.
+--------------------------------------------------------------------------------
+
+Event 166
+Date: 2024-09-24
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Students (Taiwan)
+Source: Taipei Times
+Fatalities: 0
+Notes: On 24 September 2024, graduate students from NTU held a press conference with placards and fists in Taipei City (Taipei City). They criticized the university for demolishing a historic building in order to make way for modern development.
+--------------------------------------------------------------------------------
+
+Event 167
+Date: 2024-09-22
+Country: Taiwan
+Location: Keelung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 22 September 2024, members of the Taiwan Citizen Front held a protest in Keelung City (Keelung City). They demanded that a KMT Keelung City councilor be held accountable for supporting stricter voter ID requirements in the election and recall law, and criticized him for allegedly prioritizing party interests over public opinion.
+--------------------------------------------------------------------------------
+
+Event 168
+Date: 2024-09-24
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Students (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 24 September 2024, members of EdYouth and the Taiwan Students Association held a press conference with placards in Taipei City (Taipei City). They demanded the revision of the student rights survey to better reflect real-world experiences and student satisfaction, rather than just focusing on whether formal systems are in place.
+--------------------------------------------------------------------------------
+
+Event 169
+Date: 2024-09-23
+Country: Taiwan
+Location: Kaohsiung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: UDN
+Fatalities: 0
+Notes: On 23 September 2024, DPP Kaohsiung City councilors held a press conference with placards at the City Council in Kaohsiung City - Fongshan district (Kaohsiung City). They demanded the central government budget be reallocated to prioritize critical infrastructure and social welfare projects in Kaohsiung, rather than wasteful spending.
+--------------------------------------------------------------------------------
+
+Event 170
+Date: 2024-09-25
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Women (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 25 September 2024, members of the National Federation of Taiwan Women's Associations and Mothers Shield Alliance held a press conference with placards in Taipei City (Taipei City). They demanded that proposed amendments to Taiwan's Artificial Reproduction Law be postponed, citing concerns over insufficient measures to protect children's best interests and the potential for creating more orphans.
+--------------------------------------------------------------------------------
+
+Event 171
+Date: 2024-09-27
+Country: Taiwan
+Location: Kaohsiung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Health Workers (Taiwan); Labor Group (Taiwan)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 27 September 2024, hundreds of medical and other staff from the Kaohsiung Municipal Da-Tung Hospital protested with banners and placards in front of the hospital in Kaohsiung City - Cianjin district (Kaohsiung City). They demanded transparency and fairness in the bidding process for the management rights of Datong Hospital, criticizing it as a 'black box' and calling for the protection of healthcare workers' rights.
+--------------------------------------------------------------------------------
+
+Event 172
+Date: 2024-09-25
+Country: Taiwan
+Location: Taichung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Students (Taiwan)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 25 September 2024, over 20 students from Tunghai University, as well as members of Vision Zero Taiwan and the Student Pedestrian Union held a protest with placards at the site of a bus crash that killed a pedestrian in Taichung City (Taichung City). They demanded that the city government take meaningful actions to improve pedestrian safety and stop relying on ineffective, repetitive measures.
+--------------------------------------------------------------------------------
+
+Event 173
+Date: 2024-09-27
+Country: Taiwan
+Location: Taichung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 27 September 2024, hundreds of local residents protested along a main road in Taichung City - Dali district (Taichung City). They demanded that the city government address the lack of parking and allow temporary parking in front of their homes to avoid receiving multiple fines for parking violations in the wake of hundreds of tickets being sent out that day.
+--------------------------------------------------------------------------------
+
+Event 174
+Date: 2024-09-27
+Country: Taiwan
+Location: Tainan City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: UDN
+Fatalities: 0
+Notes: On 27 September 2024, DPP Tainan City council members held a press conference with placards at the Tainan City council in Tainan City - Anping district (Tainan City). They demanded that the central government budget, including funding for flood control and elderly farmer subsidies, be approved without political obstruction to ensure the welfare of Tainan's residents.
+--------------------------------------------------------------------------------
+
+Event 175
+Date: 2024-10-03
+Country: Taiwan
+Location: Namasia
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Farmers (Taiwan)
+Source: Taiwan Indigenous TV
+Fatalities: 0
+Notes: On 3 October 2024, local farmers gathered to protest with placards in Namasia district (Namaxia, Kaohsiung City). They demanded that the government urgently clear debris from a local riverbed and implement proper flood control measures to protect farmland and prevent further damage from approaching typhoons, as previous promises to address the destruction caused by Typhoon Gaemi in July had not been fulfilled.
+--------------------------------------------------------------------------------
+
+Event 176
+Date: 2024-09-30
+Country: Taiwan
+Location: Taoyuan City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 30 September 2024, DPP Taoyuan City councilors held a press conference with placards at the Taoyuan City council in Taoyuan City (Taoyuan City). They demanded that KMT Taoyuan councilors coordinate with the central government to secure the budget necessary for important local infrastructure projects, fearing that the returned central budget could cause delays.
+--------------------------------------------------------------------------------
+
+Event 177
+Date: 2024-09-30
+Country: Taiwan
+Location: Keelung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 30 September 2024, DPP Keelung City councilors held a press conference with placards at the Keelung City council in Keelung City (Keelung City). They demanded that KMT Keelung City Mayor take immediate action to improve his governance, emphasizing that his performance is unacceptable regardless of the upcoming recall vote outcome.
+--------------------------------------------------------------------------------
+
+Event 178
+Date: 2024-10-04
+Country: Taiwan
+Location: Taichung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Yahoo News Taiwan
+Fatalities: 0
+Notes: On 4 October 2024, DPP Taichung City councilors protested with placards at the Taichung City Council in Taichung City (Taichung City). They demanded that the central government budget review process move forward, criticizing KMT and TPP legislators for blocking it and disregarding local needs and development, which they argued harms the rights and interests of Taichung residents.
+--------------------------------------------------------------------------------
+
+Event 179
+Date: 2024-10-02
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 2 October 2024, DPP legislators held a press conference with placards in the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the typhoon flood control budget of 23.4 billion NTD not be blocked, urging the KMT and TPP to prioritize disaster prevention and public welfare over political maneuvering.
+--------------------------------------------------------------------------------
+
+Event 180
+Date: 2024-10-01
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 1 October 2024, DPP Legislators held a press conference with placards in the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the KMT and TPP stop blocking over 23.4 billion NTD in critical flood control and disaster prevention budgets, urging them to prioritize public safety and Taiwan's well-being as Typhoon Krathon approaches.
+--------------------------------------------------------------------------------
+
+Event 181
+Date: 2024-09-30
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: Liberty Times
+Fatalities: 0
+Notes: On 30 September 2024, KMT legislators, the KMT Keelung City spokesperson, and members of various KMT-affiliated youth groups held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that Keelung citizens vote against the recall of the KMT mayor, citing four reasons including opposition to political manipulation and the disruption of city development.
+--------------------------------------------------------------------------------
+
+Event 182
+Date: 2024-10-01
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: UDN
+Fatalities: 0
+Notes: On 1 October 2024, KMT legislators and the Organization of Urban Re-s held a press conference with placards in Taipei City (Taipei City). They demanded an amendment to the Housing Act, requiring that social housing be designated as a necessary public facility in land developments involving land readjustment and urban planning projects.
+--------------------------------------------------------------------------------
+
+Event 183
+Date: 2024-09-30
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: UDN
+Fatalities: 0
+Notes: On 30 September 2024, KMT legislators held a press conference with placards in Taipei City - Zhongzheng district (Taipei City). They demanded that the government allocate sufficient budget to increase the National Health Insurance point value to 0.95 NT as previously promised, criticizing the Executive Yuan and the Ministry of Health and Welfare for failing to fulfill this commitment.
+--------------------------------------------------------------------------------
+
+Event 184
+Date: 2024-10-01
+Country: Taiwan
+Location: Taipei City - Wanhua
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Hong Kong Outlanders; Protesters (China); Students (China)
+Source: Taipei Times
+Fatalities: 0
+Notes: On 1 October 2024, activists, including members of the Hong Kong Outlanders, held a protest with Tibetan and East Turkestan placards and flags in Ximen, Taipei City - Wanhua district (Taipei City). They called for freedom and democracy in Hong Kong, Xinjiang, Tibet, and Southern Mongolia in correspondence with China's national day on the 1st. Their protest was interrupted by two Chinese tourists who called for the protesters to respect China's sovereignty. One demonstrator and one tourist pushed and slapped each other.
+--------------------------------------------------------------------------------
+
+Event 185
+Date: 2024-10-01
+Country: Taiwan
+Location: Dacheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 1 October 2024, dozens of local villagers gathered to protest with banners and fists by Shanjiao village, Dacheng (Changhua). They demanded that the wind turbine information sessions be held locally in each village, stating that previous meetings in other locations do not count and urging developers to take into account public opinion before commencing construction.
+--------------------------------------------------------------------------------
+
+Event 186
+Date: 2024-09-30
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 30 September 2024, members of the Alliance on Obligatory Education held a protest with placards and banners in Taipei City (Taipei City). They demanded structural reforms to the juvenile justice system, including clearer guidelines for protection officers, better inter-agency data sharing, expanded definitions of at-risk youth, and improved crime risk assessment and prevention mechanisms.
+--------------------------------------------------------------------------------
+
+Event 187
+Date: 2024-10-04
+Country: Taiwan
+Location: Nantou City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: CNA
+Fatalities: 0
+Notes: On 4 October 2024, local residents from Puli township, Nantou County gathered to protest with banners and placards by the Nantou County government building in Nantou City (Nantou). They demanded that the environmental impact assessment process for a hotel development project in Puli be thorough and transparent, addressing concerns about the incomplete documentation, the potential threat to local ecosystems and water sources, and the lack of an underground water survey.
+--------------------------------------------------------------------------------
+
+Event 188
+Date: 2024-10-09
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | ERF: Environmental Rights Foundation
+Source: Taipei Times
+Fatalities: 0
+Notes: On 9 October 2024, members of various civic groups including Citizen Congress Watch, ERF: Environmental Rights Foundation, The Taiwan Alliance to Promote Civil Partnership Rights, and others held a press conference with banners and placards outside of the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the legislature hold fair and rigorous nomination hearings for the seven justice nominees as soon as possible, without being influenced by inter-party competition.
+--------------------------------------------------------------------------------
+
+Event 189
+Date: 2024-10-09
+Country: Taiwan
+Location: Taichung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 9 October 2024, DPP Taichung City councilors held a press conference with placards at Taichung City hall in Taichung City - Xitun district (Taichung City). They demanded that Taichung KMT Mayor apologize and the Transportation Bureau chief step down over the city's failure to address the high number of pedestrian deaths and bus-related accidents.
+--------------------------------------------------------------------------------
+
+Event 190
+Date: 2024-10-11
+Country: Taiwan
+Location: Taichung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: Yahoo News Taiwan
+Fatalities: 0
+Notes: On 11 October 2024, DPP Taichung City councilors and the Taichung City Deputy Mayor held a press conference with placards in Taichung City (Taichung City). They demanded that the Taichung City Government provide detailed budget information, especially concerning potential impacts from central government subsidies, accusing the administration of evading oversight and disrespecting the council.
+--------------------------------------------------------------------------------
+
+Event 191
+Date: 2024-10-07
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-); Labor Group (Taiwan); TLF: Taiwan Labour Front
+Source: Taipei Times
+Fatalities: 0
+Notes: On 7 October 2024, a DPP legislator and members of the Taiwan Labour Front held a press conference with placards in Taipei City (Taipei City). They demanded the government strengthen trade unions, promote workplace democracy, protect labor rights in supply chains, and ensure legal remedies for corporate accountability.
+--------------------------------------------------------------------------------
+
+Event 192
+Date: 2024-10-11
+Country: Taiwan
+Location: Taipei City - Xinyi
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: Liberty Times
+Fatalities: 0
+Notes: On 11 October 2024, a KMT Taipei City councilor, four village chiefs, and others held a protest with placards and banners at the Taipei City government in Taipei City - Xinyi district (Taipei City). They demanded that the Taipei City Government find an alternative location for the planned ceremonial building instead of converting a parking lot in Da'an district, instead urging the restoration of a library and social welfare facilities at the site.
+--------------------------------------------------------------------------------
+
+Event 193
+Date: 2024-10-07
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: Liberty Times
+Fatalities: 0
+Notes: On 7 October 2024, KMT legislators held a press conference with placards and flowers at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded justice for a murdered teacher and criticized the judiciary for reversing the death penalty, calling for respect for public opinion and denouncing the decision as a failure of justice.
+--------------------------------------------------------------------------------
+
+Event 194
+Date: 2024-10-10
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-); KMT: Kuomintang; TPP: Taiwan People's Party
+Source: China Times
+Fatalities: 0
+Notes: On 10 October 2024, members of various civic groups including the Organization of Urban Re-s (a non-profit focused on public policy and environmental protection in urban cities), the Social Housing Advocacy Consortium, the Tsuei Ma Ma Foundation, as well as DPP, TPP, and KMT legislators held a press conference with placards in Taipei City (Taipei City). They demanded that social housing rent be determined based on affordability, including consideration of assets, and called for a legal mechanism to adjust rent fairly.
+--------------------------------------------------------------------------------
+
+Event 195
+Date: 2024-10-09
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); Kanakanavu Indigenous Group (Taiwan); KMT: Kuomintang
+Source: China Times
+Fatalities: 0
+Notes: On 9 October 2024, an indigenous KMT legislator and members of the Kanakanavu tribal association held a press conference with a banner in Taipei City (Taipei City). They demanded greater transparency and fairness in the appointment process for Indigenous Council representatives, criticizing the exclusion of their tribe's recommended candidate and calling for more respect for the tribe's collective voice and needs.
+--------------------------------------------------------------------------------
+
+Event 196
+Date: 2024-10-10
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); TPP: Taiwan People's Party
+Source: China Times
+Fatalities: 0
+Notes: On 10 October 2024, TPP legislators held a press conference with placards in Taipei City (Taipei City). They demanded that the government stop leasing social housing for luxury hotels and offices, and instead prioritize providing affordable housing for the public, particularly for disadvantaged groups.
+--------------------------------------------------------------------------------
+
+Event 197
+Date: 2024-10-06
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (International); Protesters (International); Protesters (Palestine)
+Source: New Bloom Magazine
+Fatalities: 0
+Notes: On 6 October 2024, pro-Palestine demonstrators, including members of Migrante Taiwan and the Taiwan Action Front for Palestine, as well as at least one Palestinian currently based in Taiwan, held a candlelight vigil with Palestinian and Lebanese flags, photographs, and placards at Liberty Square in Taipei City - Zhongzheng district (Taipei City). They commemorated the Palestinians and Lebanese whose lives had been taken by Israeli forces since October 7th 2023, and condemned Taiwanese governmental support and corporate cooperation with for Israel.
+--------------------------------------------------------------------------------
+
+Event 198
+Date: 2024-10-09
+Country: Taiwan
+Location: Taipei City - Zhongshan
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 9 October 2024, members of the CSE Labor Union held a protest with placards and banners at the Ministry of Labor in Taipei City - Zhongshan district (Taipei City). They demanded that the Ministry of Labor commit to helping unlawfully dismissed Taiwanese crew members return to work and restore their labor and health insurance within a set deadline. The police engaged in pushing and shoving with the protesters.
+--------------------------------------------------------------------------------
+
+Event 199
+Date: 2024-10-11
+Country: Taiwan
+Location: Chiayi City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Labor Group (Taiwan)
+Source: Yahoo News Taiwan
+Fatalities: 0
+Notes: On 11 October 2024, firefighters, including members of Save Firefighters, and a whistleblower gathered to protest with placards and banners at the Chiayi City government in Chiayi City (Chiayi City). They demanded that the Chiayi City Government stop retaliating against whistleblowers, retract 'malicious job transfers' and 'improper administrative actions' against firefighters, and protect the rights of all firefighters.
+--------------------------------------------------------------------------------
+
+Event 200
+Date: 2024-10-10
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Students (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 10 October 2024, the director of the Taiwan Citizen Front and a group of students held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that Keelung residents, especially young people, return home to vote in the upcoming mayoral recall election, emphasizing the importance of exercising their voting rights.
+--------------------------------------------------------------------------------
+
+Event 201
+Date: 2024-10-08
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Taiwan Republic Office; TSU: Taiwan Solidarity Union
+Source: Taipei Times
+Fatalities: 0
+Notes: On 8 October 2024, members of various civic groups, including the Taiwan Republic Office, the TSU: Taiwan Solidarity Union, and others held a press conference with banners at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They called for people to attend an event outside the Legislative Yuan on October 25th discussing the ways in which UN resolution 2758 was being used to undermine Taiwanese sovereignty, and asserted their commitment to an independent Taiwan.
+--------------------------------------------------------------------------------
+
+Event 202
+Date: 2024-10-05
+Country: Taiwan
+Location: Tucheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | TPP: Taiwan People's Party
+Source: UDN
+Fatalities: 0
+Notes: On 5 October 2024, over 180 supporters of TPP Taipei City mayor held a protest with placards in Tucheng (New Taipei City). They demanded judicial fairness and an end to coercive detention practices used to extract confessions.
+--------------------------------------------------------------------------------
+
+Event 203
+Date: 2024-10-07
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | AI: Amnesty International; Green Citizens' Action Alliance; Greenpeace; Lawyers (Taiwan); Wild at Heart Legal Defense Association
+Source: China Times
+Fatalities: 0
+Notes: On 7 October 2024, members of groups including the Wild at Heart Legal Defense Association, Green Citizens' Action Alliance, AI: Amnesty International, Greenpeace Taiwan, and others held a protest with placards and banners at the Ministry of the Environment in Taipei City - Zhongzheng district (Taipei City). They demanded that the government raise the carbon fee, arguing that the current low rates, especially for high carbon-emitting industries, undermine efforts to achieve significant carbon reduction and violate climate responsibility laws.
+--------------------------------------------------------------------------------
+
+Event 204
+Date: 2024-10-07
+Country: Taiwan
+Location: Taipei City - Xinyi
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: New Bloom Magazine; Taipei Times
+Fatalities: 0
+Notes: On 7 October 2024, pro-Palestine protesters and members of the Taiwan Action Front for Palestine held a protest with a Palestine flag, stuffed animals, and placards outside of the Israeli Economic Affairs Office in Taipei City - Xinyi district (Taipei City). They called for a free Palestine and commemorated the events of October 7 2023.
+--------------------------------------------------------------------------------
+
+Event 205
+Date: 2024-10-05
+Country: Taiwan
+Location: Daliao
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 5 October 2024, local villagers gathered to protest with banners in Daliao (Kaohsiung City). They demanded that Taiwan Power Company speed up the power restoration process, which had been delayed for days after Typhoon Krathon's damage.
+--------------------------------------------------------------------------------
+
+Event 206
+Date: 2024-10-05
+Country: Taiwan
+Location: Mingjian
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: CNA
+Fatalities: 0
+Notes: On 5 October 2024, hundreds of villagers gathered to protest with placards at a Tea expo in Mingjian (Nantou). They demanded that the Nantou County government halt plans to build an incinerator in Mingjian Township, citing a lack of communication and concerns over the environmental impact on local tea production.
+--------------------------------------------------------------------------------
+
+Event 207
+Date: 2024-10-08
+Country: Taiwan
+Location: Kaohsiung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: Yahoo News Taiwan
+Fatalities: 0
+Notes: On 8 October 2024, family members of a deceased man from Kaohsiung gathered to protest with placards outside of Kaohsiung Municipal Min-Sheng Hospital in Kaohsiung City - Lingya district (Kaohsiung City). They demanded accountability from the hospital, accusing the attending physician of medical negligence for not performing surgery promptly, which they believe led to the death of their relative.
+--------------------------------------------------------------------------------
+
+Event 208
+Date: 2024-10-15
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Air Clean Taiwan
+Source: UDN
+Fatalities: 0
+Notes: On 15 October 2024, 3 members of Air Clean Taiwan held a press conference with placards in Taipei City - Zhongzheng district (Taipei City). They demanded stricter air pollution standards to reduce the long-term health risks, especially for vulnerable populations, from pollutants like PM2.5 and NO2, which have been linked to increased rates of cancer and other health issues.
+--------------------------------------------------------------------------------
+
+Event 209
+Date: 2024-10-14
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: UDN
+Fatalities: 0
+Notes: On 14 October 2024, members of the TCEA: Taiwan Cognitive Enhancement Association, several academics, two DPP legislators, members of the Alliance on Obligatory Education, and an American businessman held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded the government establish specialized care centers and provide more resources to address the needs of neurodiverse youth, including those with ADHD and autism, to prevent emotional disorders from being overlooked.
+--------------------------------------------------------------------------------
+
+Event 210
+Date: 2024-10-15
+Country: Taiwan
+Location: Pingtung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | DPP: Democratic Progressive Party; Government of Taiwan (2016-)
+Source: CNA
+Fatalities: 0
+Notes: On 15 October 2024, a DPP legislator and others held a press conference with placards in Pingtung City (Pingtung). They demanded reforms to insurance law to prevent essential insurance policies, especially non-savings types like health insurance, from being forcibly terminated to pay debts, ensuring debtors retain basic living protections.
+--------------------------------------------------------------------------------
+
+Event 211
+Date: 2024-10-14
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: UDN
+Fatalities: 0
+Notes: On 14 October 2024, KMT legislators held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded the government stop the division and reconstruction of the historic Jianguo Brewery land for university use, questioning potential conflicts of interest and advocating for the preservation of the site as a cultural heritage area.
+--------------------------------------------------------------------------------
+
+Event 212
+Date: 2024-10-14
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: UDN
+Fatalities: 0
+Notes: On 14 October 2024, KMT legislators held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the DPP take political responsibility for the failed recall vote against the KMT mayor of Keelung and cease initiating further large-scale recall efforts.
+--------------------------------------------------------------------------------
+
+Event 213
+Date: 2024-10-17
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: UDN
+Fatalities: 0
+Notes: On 17 October 2024, two KMT legislators, the KMT caucus vice secretary, and hundreds of villagers from Dapu (Chiayi) gathered to protest with placards, headbands, and fists at the Executive Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded the government stop the construction of solar panels in their village and at Zengwen Reservoir, citing concerns for their safety.
+--------------------------------------------------------------------------------
+
+Event 214
+Date: 2024-10-17
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: UDN
+Fatalities: 0
+Notes: On 17 October 2024, the KMT secretary general, deputy chief secretary general, and a KMT legislator held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded the resignation of the Minister of Economic Affairs for proposing a poorly conceived plan to generate electricity in the Philippines and send it back to Taiwan.
+--------------------------------------------------------------------------------
+
+Event 215
+Date: 2024-10-17
+Country: Taiwan
+Location: Pingtung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); Indigenous Group (Taiwan); KMT: Kuomintang
+Source: UDN
+Fatalities: 0
+Notes: On 17 October 2024, KMT Pingtung city councilors, including some from indigenous tribes, held a press conference with placards in Pingtung City (Pingtung). They demanded that the government allocate full compensation for indigenous land affected by logging bans, emphasizing that it is a matter of justice and legal obligation, not charity.
+--------------------------------------------------------------------------------
+
+Event 216
+Date: 2024-10-16
+Country: Taiwan
+Location: Hsinchu City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); NPP: New Power Party
+Source: CNA
+Fatalities: 0
+Notes: On 16 October 2024, 3 NPP Hsinchu City councilors held a press conference with placards in Hsinchu City (Hsinchu City). They demanded that the Hsinchu City government provide a more transparent and justifiable explanation for its increased 2024 overseas study budget, including eliminating unnecessary expenses such as visits to closed sites.
+--------------------------------------------------------------------------------
+
+Event 217
+Date: 2024-10-14
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Hakka Ethnic Group (Taiwan)
+Source: Liberty Times
+Fatalities: 0
+Notes: On 14 October 2024, members of the Taiwan Citizen Front and ethnic Hakkas held a protest with placards outside of the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that two KMT legislators apologize for discriminating against the Hakka language and uphold the National Languages Development Act, ensuring equal treatment for all local languages in Taiwan.
+--------------------------------------------------------------------------------
+
+Event 218
+Date: 2024-10-17
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Teachers (Taiwan); THEU: Taiwan Higher Education Union
+Source: UDN
+Fatalities: 0
+Notes: On 17 October 2024, members of the THEU: Taiwan Higher Education Union held a press conference with banners in Taipei City (Taipei City). They demanded the government prevent corporations from taking over private universities, pushing for an end to corporate exploitation of higher education.
+--------------------------------------------------------------------------------
+
+Event 219
+Date: 2024-10-12
+Country: Taiwan
+Location: Taichung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: Liberty Times
+Fatalities: 0
+Notes: On 12 October 2024, members of a local tree protection group held a protest with placards at the site of tree removal work in Taichung City - Shengang district (Taichung City). They demanded transparency in the removal of street trees, the public disclosure of tree removal data, and the establishment of a civic participation mechanism in decision-making related to tree management.
+--------------------------------------------------------------------------------
+
+Event 220
+Date: 2024-10-12
+Country: Taiwan
+Location: Dacheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: Liberty Times
+Fatalities: 0
+Notes: On 12 October 2024, local residents gathered to protest with banners and flags in Dacheng (Changhua). They demanded the removal of wind turbines from near their homes, for them to be relocated offshore, away from residential areas, and for new construction near homes to be halted.
+--------------------------------------------------------------------------------
+
+Event 221
+Date: 2024-10-12
+Country: Taiwan
+Location: Dapu
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 12 October 2024, local villagers gathered to protest with banners and headbands in Dapu (Chiayi). They demanded that the local government intervene to halt the construction of solar panels in residential areas and address the lack of regulatory oversight for such projects.
+--------------------------------------------------------------------------------
+
+Event 222
+Date: 2024-10-15
+Country: Taiwan
+Location: Kaohsiung City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: CNA
+Fatalities: 0
+Notes: On 15 October 2024, members of the CPAT: Consumer Protection Association Taiwan and fraud victims held a press conference with placards in Kaohsiung City (Kaohsiung City). They demanded the levying of consumer protection measures and legal action against 'Sports Humanities and Culture' to address a case of fraud that affected hundreds of families who paid for children's basketball classes but received no services.
+--------------------------------------------------------------------------------
+
+Event 223
+Date: 2024-10-15
+Country: Taiwan
+Location: Taipei City
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: CNA
+Fatalities: 0
+Notes: On 15 October 2024, members of the Taiwan New Constitution Foundation held a press conference with placards in Taipei City (Taipei City). They demanded that the government acknowledge various instances of what they deemed 'abnormal phenomena' in Taiwan, including authoritarian symbols in public spaces.
+--------------------------------------------------------------------------------
+
+Event 224
+Date: 2024-10-12
+Country: Taiwan
+Location: Xinwu
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: CNA
+Fatalities: 0
+Notes: On 12 October 2024, local residents gathered to protest with placards and banners in Xinwu (Taoyuan City). They demanded that the government reject a pet cremation facility development project due to concerns over environmental pollution and its negative impact on local agriculture and tourism.
+--------------------------------------------------------------------------------
+
+Event 225
+Date: 2024-09-02
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); KMT: Kuomintang
+Source: UDN
+Fatalities: 0
+Notes: On 2 September 2024, KMT legislators and a KMT spokesperson held a press conference with placards at the Legislative Yuan in Taipei City - Zhongzheng district (Taipei City). They demanded that the Presidential Office withdraw the current Constitutional Court judge nominees due to concerns of lack of impartiality and nepotism, and urged for a new, independent list of candidates.
+--------------------------------------------------------------------------------
+
+Event 226
+Date: 2024-09-04
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 4 September 2024, members of the Government Watch Alliance held a press conference in front of the Ministry of the Interior in Taipei City - Zhongzheng district (Taipei City). They demanded that central counties, especially Taichung, promptly submit their national land use zoning maps to protect agricultural land and prevent reckless development before the implementation of the National Land Planning Act.
+--------------------------------------------------------------------------------
+
+Event 227
+Date: 2024-08-19
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Government of Taiwan (2016-); Women (Taiwan)
+Source: UDN
+Fatalities: 0
+Notes: On 19 August 2024, members of the Ministry of the Environment and others held a press conference with signs at the Ministry of Environment headquarters in Taipei City - Zhongzheng district (Taipei City). They demanded the government increase the number of gender-friendly restrooms to ensure safer and more comfortable public spaces for all genders, especially for women.
+--------------------------------------------------------------------------------
+
+Event 228
+Date: 2024-08-20
+Country: Taiwan
+Location: Taipei City - Zhongzheng
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | 
+Source: UDN
+Fatalities: 0
+Notes: On 20 August 2024, members of Vision Zero Taiwan held a press conference with placards along the Ketagalan Boulevard in Taipei City - Zhongzheng district (Taipei City). They demanded comprehensive traffic reforms, including improved pedestrian safety measures, stricter driving tests, and greater public involvement in traffic safety decision-making on the one year anniversary of the groups' large protest march in central Taipei.
+--------------------------------------------------------------------------------
+
+Event 229
+Date: 2024-08-23
+Country: Taiwan
+Location: Xinpu Urban
+Disorder Type: Demonstrations
+Event Type: Protests
+Sub-Event Type: Peaceful protest
+Actors: Protesters (Taiwan) | Hakka Ethnic Group (Taiwan); Teachers (Taiwan)
+Source: China Times
+Fatalities: 0
+Notes: On 23 August 2024, local Hakka teachers gathered to protest with placards at Ximin temple in Xinpu Urban (Hsinchu). They demanded equal recognition and preservation of the Hakka language and other indigenous languages in Taiwan, opposing policies that prioritize Taiwanese Hokkien (Min Nan) over other native languages.
+--------------------------------------------------------------------------------
+
